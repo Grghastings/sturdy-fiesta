@@ -1,72 +1,50 @@
 [
   {
-    "headline": "Hollywood Visions of A.I.: Friendly, Then Deadly, Then Everywhere",
-    "snippet": "Plots involving some kind of artificial intelligence are even part of soap operas. Here’s how they’ve evolved over the decades.",
-    "pub_date": "2026-09-09T09:06:26Z",
-    "url": "https://www.nytimes.com/2026/09/09/movies/ai-tv-movies-robots-science-fiction.html",
-    "section": "Movies"
-  },
-  {
-    "headline": "Clay, an A.I. Sales Tool Provider, Raises $115 Million",
-    "snippet": "The round was led by Wellington Management, a firm known for investing in start-ups on the path toward potential initial public offerings.",
-    "pub_date": "2026-09-09T12:08:36Z",
-    "url": "https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html",
-    "section": "Business"
-  },
-  {
-    "headline": "The Building Blocks Hidden in A.I.: How Tokens Work",
-    "snippet": "As large language models become more advanced, they use ever more resources. Who will foot the bill?",
-    "pub_date": "2026-09-09T09:06:38Z",
-    "url": "https://www.nytimes.com/interactive/2026/09/09/technology/ai-token-cost.html",
-    "section": "Technology"
-  },
-  {
-    "headline": "An A.I. Giant Made an Enemy of Record Labels. Can It Play Nice?",
-    "snippet": "Suno has drawn copyright lawsuits from the majors. Now it is releasing a version of its A.I. music generator trained in partnership with Warner Music.",
-    "pub_date": "2026-09-09T09:05:03Z",
-    "url": "https://www.nytimes.com/2026/09/09/arts/music/suno-new-ai-model-warner-music.html",
+    "historical_year": 2020,
+    "headline": "‘Impossible Objects’ That Reveal a Hidden Power",
+    "snippet": "The artist Trevor Paglen peers into the history of photography and its relationship to state surveillance.",
+    "pub_date": "2020-09-09T16:18:41Z",
+    "url": "https://www.nytimes.com/2020/09/09/arts/design/trevor-paglen-pittsburgh.html",
     "section": "Arts"
   },
   {
-    "headline": "Measuring the Cost of Trump’s Multiple Wars",
-    "snippet": "Voters and some Republican lawmakers are growing weary of President Trump’s trade battles and the economic fallout from fighting in the Middle East.",
-    "pub_date": "2026-09-09T12:13:15Z",
-    "url": "https://www.nytimes.com/2026/09/09/business/dealbook/trump-costs-wars.html",
-    "section": "Business"
+    "historical_year": 2020,
+    "headline": "Meet the New Caregiver: Your Home",
+    "snippet": "New technology is allowing homeowners who can afford it to outfit their bedrooms, kitchens and bathrooms with tools to monitor their health.",
+    "pub_date": "2020-09-09T10:00:08Z",
+    "url": "https://www.nytimes.com/2020/09/09/realestate/home-health-technology.html",
+    "section": "Real Estate"
   },
   {
-    "headline": "Why Trump Is Gathering Republicans in Texas, and Iran Targets U.S. Warships",
-    "snippet": "Plus, the fake images flooding real estate listings.",
-    "pub_date": "2026-09-09T10:00:12Z",
-    "url": "https://www.nytimes.com/2026/09/09/podcasts/the-headlines/trump-republicans-texas-iran-us-warships.html",
-    "section": "Podcasts"
+    "historical_year": 2020,
+    "headline": "House Hunting in Canada: A Rowhouse in Old Montreal With Income Potential",
+    "snippet": "Prices and sales volume have bounced back in Montreal since the spring quarantine, but the growing recession has the housing market on edge.",
+    "pub_date": "2020-09-09T13:30:21Z",
+    "url": "https://www.nytimes.com/2020/09/09/realestate/montreal-canada-real-estate.html",
+    "section": "Real Estate"
   },
   {
-    "headline": "The Goal: Shrink a Craft to a 30-Millimeter Watch Dial",
-    "snippet": "Vacheron Constantin worked with a glass blower, embroiderer and others for its Tribute to the Animal Kingdom collection.",
-    "pub_date": "2026-09-09T09:03:34Z",
-    "url": "https://www.nytimes.com/2026/09/09/fashion/watches-vacheron-constantin-homo-faber-venice.html",
-    "section": "Fashion"
+    "historical_year": 2015,
+    "headline": "Bon Jovi Concerts in China Are Canceled, and Dalai Lama Image Is Seen as Cause",
+    "snippet": "The band had its September dates in Shanghai and Beijing abruptly canceled.",
+    "pub_date": "2015-09-09T05:04:18Z",
+    "url": "https://sinosphere.blogs.nytimes.com/2015/09/09/bon-jovi-china-concerts-cancelled-dalai-lama/",
+    "section": "World"
   },
   {
-    "headline": "The Decade That Ruined Everything",
-    "snippet": "We are suffering the consequences of the conservative revolution that began in the 1980s.",
-    "pub_date": "2026-09-09T09:04:56Z",
-    "url": "https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html",
-    "section": "Opinion"
+    "historical_year": 2015,
+    "headline": "Intel to End Sponsorship of Science Talent Search",
+    "snippet": "The high school competition counts among its past competitors eight Nobel Prize winners, along with chief executives, university professors and award-winning scientists.",
+    "pub_date": "2015-09-09T04:01:21Z",
+    "url": "https://www.nytimes.com/2015/09/09/technology/intel-to-end-sponsorship-of-science-talent-search.html",
+    "section": "Technology"
   },
   {
-    "headline": "Texas Republicans Are Turning Against Data Centers. Will It Matter in November?",
-    "snippet": "The industry’s rapid expansion has scrambled traditional political alliances and forced G.O.P. leaders to respond to a backlash from some of their most reliable rural voters.",
-    "pub_date": "2026-09-09T09:05:38Z",
-    "url": "https://www.nytimes.com/2026/09/09/us/texas-republicans-data-center-anger.html",
-    "section": "U.S."
-  },
-  {
-    "headline": "Germany’s Right Turn",
-    "snippet": "We take stock of the AfD’s success.",
-    "pub_date": "2026-09-09T10:53:03Z",
-    "url": "https://www.nytimes.com/2026/09/09/briefing/germanys-right-turn.html",
-    "section": "Briefing"
+    "historical_year": 2010,
+    "headline": "Betaworks and The Times Plan a Social News Service",
+    "snippet": "Betaworks, a technology incubator in New York, is teaming up with The New York Times to introduce a social news service.",
+    "pub_date": "2010-09-09T21:29:44Z",
+    "url": "https://bits.blogs.nytimes.com/2010/09/09/betaworks-and-the-times-develop-social-news-service/",
+    "section": "Technology"
   }
 ]
