@@ -1,50 +1,42 @@
 [
   {
     "historical_year": 2020,
-    "headline": "‘Impossible Objects’ That Reveal a Hidden Power",
-    "snippet": "The artist Trevor Paglen peers into the history of photography and its relationship to state surveillance.",
-    "pub_date": "2020-09-09T16:18:41Z",
-    "url": "https://www.nytimes.com/2020/09/09/arts/design/trevor-paglen-pittsburgh.html",
-    "section": "Arts"
+    "headline": "I Got Blown Up in Iraq. Years Later, Amputating My Leg Set Me Free.",
+    "snippet": "Injuries from the war in Iraq left me barely able to walk without further hurting myself. It took a drastic decision to reclaim my life.",
+    "pub_date": "2020-09-10T09:00:03Z",
+    "url": "https://www.nytimes.com/interactive/2020/09/10/magazine/amputation-implanted-prosthetic-limb-osseointegration.html",
+    "section": "Magazine"
   },
   {
-    "historical_year": 2020,
-    "headline": "Meet the New Caregiver: Your Home",
-    "snippet": "New technology is allowing homeowners who can afford it to outfit their bedrooms, kitchens and bathrooms with tools to monitor their health.",
-    "pub_date": "2020-09-09T10:00:08Z",
-    "url": "https://www.nytimes.com/2020/09/09/realestate/home-health-technology.html",
-    "section": "Real Estate"
+    "historical_year": 2000,
+    "headline": "TRAVEL ADVISORY; London Museum Addresses Digital Age",
+    "snippet": "London Science Museum opens addition that explores such topics as genetics, digital technology and artificial intelligence; photo (M)",
+    "pub_date": "2000-09-10T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/10/travel/travel-advisory-london-museum-addresses-digital-age.html",
+    "section": "Travel"
   },
   {
-    "historical_year": 2020,
-    "headline": "House Hunting in Canada: A Rowhouse in Old Montreal With Income Potential",
-    "snippet": "Prices and sales volume have bounced back in Montreal since the spring quarantine, but the growing recession has the housing market on edge.",
-    "pub_date": "2020-09-09T13:30:21Z",
-    "url": "https://www.nytimes.com/2020/09/09/realestate/montreal-canada-real-estate.html",
-    "section": "Real Estate"
+    "historical_year": 2000,
+    "headline": "In the Final, Youth Serves",
+    "snippet": "It was a half-hour after match point, near the front row inside Arthur Ashe Stadium, when a group of smitten fans and nudging camera operators were circling Marat Safin as if they were surrounding a campfire.",
+    "pub_date": "2000-09-10T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/10/sports/in-the-final-youth-serves.html",
+    "section": "Sports"
   },
   {
-    "historical_year": 2015,
-    "headline": "Bon Jovi Concerts in China Are Canceled, and Dalai Lama Image Is Seen as Cause",
-    "snippet": "The band had its September dates in Shanghai and Beijing abruptly canceled.",
-    "pub_date": "2015-09-09T05:04:18Z",
-    "url": "https://sinosphere.blogs.nytimes.com/2015/09/09/bon-jovi-china-concerts-cancelled-dalai-lama/",
-    "section": "World"
+    "historical_year": 2000,
+    "headline": "Travel Advisory: Ski Resorts Pledge to Protect Natural Areas",
+    "snippet": "At the nation's biggest ski resorts, trail maps this season will be emblazoned with a proclamation of environmental good will. \"Sustainable Slopes,\" the new program, is the product of a ski industry association campaign to quiet critics and to reassure visitors that its members are committed to protecting natural areas.",
+    "pub_date": "2000-09-10T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/10/travel/travel-advisory-ski-resorts-pledge-to-protect-natural-areas.html",
+    "section": "Travel"
   },
   {
-    "historical_year": 2015,
-    "headline": "Intel to End Sponsorship of Science Talent Search",
-    "snippet": "The high school competition counts among its past competitors eight Nobel Prize winners, along with chief executives, university professors and award-winning scientists.",
-    "pub_date": "2015-09-09T04:01:21Z",
-    "url": "https://www.nytimes.com/2015/09/09/technology/intel-to-end-sponsorship-of-science-talent-search.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "Betaworks and The Times Plan a Social News Service",
-    "snippet": "Betaworks, a technology incubator in New York, is teaming up with The New York Times to introduce a social news service.",
-    "pub_date": "2010-09-09T21:29:44Z",
-    "url": "https://bits.blogs.nytimes.com/2010/09/09/betaworks-and-the-times-develop-social-news-service/",
-    "section": "Technology"
+    "historical_year": 2000,
+    "headline": "THE ANNOTATED LIST; Women Box, Men Dive, Dogs Preen and a Boy Pirouettes",
+    "snippet": "Annotated list of upcoming movie season; photos (L)",
+    "pub_date": "2000-09-10T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/10/movies/the-annotated-list-women-box-men-dive-dogs-preen-and-a-boy-pirouettes.html",
+    "section": "Movies"
   }
 ]
