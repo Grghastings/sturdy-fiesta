@@ -1,42 +1,42 @@
 [
   {
     "historical_year": 2020,
-    "headline": "I Got Blown Up in Iraq. Years Later, Amputating My Leg Set Me Free.",
-    "snippet": "Injuries from the war in Iraq left me barely able to walk without further hurting myself. It took a drastic decision to reclaim my life.",
-    "pub_date": "2020-09-10T09:00:03Z",
-    "url": "https://www.nytimes.com/interactive/2020/09/10/magazine/amputation-implanted-prosthetic-limb-osseointegration.html",
-    "section": "Magazine"
+    "headline": "Europe Feels Squeeze as Tech Competition Heats Up Between U.S. and China",
+    "snippet": "As the rapid pace of change mixes with national security issues, Europe’s role as a global regulator is increasingly tested — and may not be enough.",
+    "pub_date": "2020-09-11T19:44:28Z",
+    "url": "https://www.nytimes.com/2020/09/11/world/europe/eu-us-china-technology.html",
+    "section": "World"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Travis Scott Meets McDonald’s (It’s Lit!)",
+    "snippet": "A partnership between the rapper and the fast-food chain is a melding of the merchandising minds.",
+    "pub_date": "2020-09-11T13:00:07Z",
+    "url": "https://www.nytimes.com/2020/09/11/arts/music/travis-scott-mcdonalds.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Green Golf Homes in Five Global Destinations",
+    "snippet": "Golf homes, like the courses themselves, are getting more environmentally conscious as climate change threats grow in golf-friendly territory.",
+    "pub_date": "2020-09-11T09:00:57Z",
+    "url": "https://www.nytimes.com/2020/09/11/realestate/green-golf-homes.html",
+    "section": "Real Estate"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Ai Weiwei, in London for Exhibition, Softens Tone Toward Beijing",
+    "snippet": "Speaking at the Royal Academy of Arts, which will host a major show of his work starting Sept. 19, the artist and dissident was less charitable in talking about Britain, however.",
+    "pub_date": "2015-09-11T14:50:37Z",
+    "url": "https://www.nytimes.com/2015/09/12/world/europe/ai-weiwei-royal-academy-of-arts-britain-china.html",
+    "section": "World"
   },
   {
     "historical_year": 2000,
-    "headline": "TRAVEL ADVISORY; London Museum Addresses Digital Age",
-    "snippet": "London Science Museum opens addition that explores such topics as genetics, digital technology and artificial intelligence; photo (M)",
-    "pub_date": "2000-09-10T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/09/10/travel/travel-advisory-london-museum-addresses-digital-age.html",
-    "section": "Travel"
-  },
-  {
-    "historical_year": 2000,
-    "headline": "In the Final, Youth Serves",
-    "snippet": "It was a half-hour after match point, near the front row inside Arthur Ashe Stadium, when a group of smitten fans and nudging camera operators were circling Marat Safin as if they were surrounding a campfire.",
-    "pub_date": "2000-09-10T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/09/10/sports/in-the-final-youth-serves.html",
+    "headline": "TENNIS: U.S. OPEN; In the Final, Youth Serves",
+    "snippet": "Marat Safin defeats Pete Sampras to win US Open men's singles tennis championship; team of Julie Halard-Decugis and Al Sugiyama wins women's doubles championship; Andy Roddick wins junior boys' singles championship; photo (M)",
+    "pub_date": "2000-09-11T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/11/sports/tennis-us-open-in-the-final-youth-serves.html",
     "section": "Sports"
-  },
-  {
-    "historical_year": 2000,
-    "headline": "Travel Advisory: Ski Resorts Pledge to Protect Natural Areas",
-    "snippet": "At the nation's biggest ski resorts, trail maps this season will be emblazoned with a proclamation of environmental good will. \"Sustainable Slopes,\" the new program, is the product of a ski industry association campaign to quiet critics and to reassure visitors that its members are committed to protecting natural areas.",
-    "pub_date": "2000-09-10T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/09/10/travel/travel-advisory-ski-resorts-pledge-to-protect-natural-areas.html",
-    "section": "Travel"
-  },
-  {
-    "historical_year": 2000,
-    "headline": "THE ANNOTATED LIST; Women Box, Men Dive, Dogs Preen and a Boy Pirouettes",
-    "snippet": "Annotated list of upcoming movie season; photos (L)",
-    "pub_date": "2000-09-10T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/09/10/movies/the-annotated-list-women-box-men-dive-dogs-preen-and-a-boy-pirouettes.html",
-    "section": "Movies"
   }
 ]
