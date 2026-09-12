@@ -1,42 +1,50 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Europe Feels Squeeze as Tech Competition Heats Up Between U.S. and China",
-    "snippet": "As the rapid pace of change mixes with national security issues, Europe’s role as a global regulator is increasingly tested — and may not be enough.",
-    "pub_date": "2020-09-11T19:44:28Z",
-    "url": "https://www.nytimes.com/2020/09/11/world/europe/eu-us-china-technology.html",
-    "section": "World"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Travis Scott Meets McDonald’s (It’s Lit!)",
-    "snippet": "A partnership between the rapper and the fast-food chain is a melding of the merchandising minds.",
-    "pub_date": "2020-09-11T13:00:07Z",
-    "url": "https://www.nytimes.com/2020/09/11/arts/music/travis-scott-mcdonalds.html",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Green Golf Homes in Five Global Destinations",
-    "snippet": "Golf homes, like the courses themselves, are getting more environmentally conscious as climate change threats grow in golf-friendly territory.",
-    "pub_date": "2020-09-11T09:00:57Z",
-    "url": "https://www.nytimes.com/2020/09/11/realestate/green-golf-homes.html",
-    "section": "Real Estate"
+    "headline": "SoftBank Said to Be Near Deal to Sell British Chip Designer Arm",
+    "snippet": "A sale to Nvidia for more than $40 billion would net billions of dollars for the Japanese tech investor and create a powerhouse in the semiconductor industry.",
+    "pub_date": "2020-09-12T18:59:31Z",
+    "url": "https://www.nytimes.com/2020/09/12/business/dealbook/softbank-arm-nvidia-computer-chips-sale.html",
+    "section": "Business"
   },
   {
     "historical_year": 2015,
-    "headline": "Ai Weiwei, in London for Exhibition, Softens Tone Toward Beijing",
-    "snippet": "Speaking at the Royal Academy of Arts, which will host a major show of his work starting Sept. 19, the artist and dissident was less charitable in talking about Britain, however.",
-    "pub_date": "2015-09-11T14:50:37Z",
-    "url": "https://www.nytimes.com/2015/09/12/world/europe/ai-weiwei-royal-academy-of-arts-britain-china.html",
-    "section": "World"
+    "headline": "A Dying Young Woman’s Hope in Cryonics and a Future",
+    "snippet": "Cancer claimed Kim Suozzi at age 23, but she chose to have her brain preserved with the dream that neuroscience might one day revive her mind.",
+    "pub_date": "2015-09-12T17:31:15Z",
+    "url": "https://www.nytimes.com/2015/09/13/us/cancer-immortality-cryogenics.html",
+    "section": "U.S."
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Space Commandos Back at War, With Retooled Combat Gizmos",
+    "snippet": "Halo: Reach for the Xbox 360 will be released on Tuesday, and fans will not be disappointed by this saga’s latest science-fiction combat romp.",
+    "pub_date": "2010-09-12T16:18:09Z",
+    "url": "https://www.nytimes.com/2010/09/13/arts/television/13halo.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Judge Bork's Inkblot",
+    "snippet": "Op-Ed article: Prof Glenn Harlan Reynolds suggests five questions that Senators should ask Judge John G Roberts Jr when he appears at hearing on his nomination to be chief justice of Supreme Court; drawing (S)",
+    "pub_date": "2005-09-12T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/09/12/opinion/judge-borks-inkblot.html",
+    "section": "Opinion"
   },
   {
     "historical_year": 2000,
-    "headline": "TENNIS: U.S. OPEN; In the Final, Youth Serves",
-    "snippet": "Marat Safin defeats Pete Sampras to win US Open men's singles tennis championship; team of Julie Halard-Decugis and Al Sugiyama wins women's doubles championship; Andy Roddick wins junior boys' singles championship; photo (M)",
-    "pub_date": "2000-09-11T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/09/11/sports/tennis-us-open-in-the-final-youth-serves.html",
-    "section": "Sports"
+    "headline": "TECHNOLOGY; Web Site Offers Cartoons That Interact, With Feeling",
+    "snippet": "Zoesis Studios is starting Web site for interactive cartoon characters imbued with behavior that mimics human emotion; eventually hopes to create new medium of interactive entertainment parallel to television; drawing (M)",
+    "pub_date": "2000-09-12T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/12/business/technology-web-site-offers-cartoons-that-interact-with-feeling.html",
+    "section": "Business"
+  },
+  {
+    "historical_year": 2000,
+    "headline": "Can Robots Rule the World? Not Yet",
+    "snippet": "Robotics researchers see no possibility that robots will eventually displace humans; hold giving machines ability to reproduce is almost impossible, despite success of Brandeis University researchers in building robotic system that designs and builds other simple robots; photos (M)",
+    "pub_date": "2000-09-12T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/12/science/can-robots-rule-the-world-not-yet.html",
+    "section": "Science"
   }
 ]
