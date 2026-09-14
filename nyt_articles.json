@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "historical_year": 2020,
+    "headline": "Nvidia Buys Arm From SoftBank for $40 Billion",
+    "snippet": "The move gives Nvidia a way into mobile chips, but the acquisition is likely to face regulatory scrutiny.",
+    "pub_date": "2020-09-14T00:27:54Z",
+    "url": "https://www.nytimes.com/2020/09/13/technology/nvidia-arm-softbank.html",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "What Is Celebrity?",
+    "snippet": "You voted on the most— and least — important categories of American celebrity. The results surprised us!",
+    "pub_date": "2020-09-14T21:53:17Z",
+    "url": "https://www.nytimes.com/interactive/2020/09/14/style/most-famous-people-in-america.html",
+    "section": "Style"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "A Departure for Ai Weiwei at the Royal Academy in London",
+    "snippet": "A large exhibition highlights his Chinese work but ushers in a new phase.",
+    "pub_date": "2015-09-14T11:35:06Z",
+    "url": "https://www.nytimes.com/2015/09/15/arts/international/a-departure-for-ai-weiwei-at-the-royal-academy-in-london.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Robotic Vehicles Race, but Innovation Wins",
+    "snippet": "Pentagon's race called Grand Challenge involving robotic vehicles will be held on Oct 8; driverless, computer-controlled Volkswagen Touareg, known as Stanley, is being prepared by Stanford University computer scientists Sebastian Thrun and Michael Montemerlo; winner of race will receive $2 million; Thrun says his goal is just not winning race but advancing robotics as science and explore applications ranging from aids for elderly to basic advances in intelligent computerized systems; photos (M)",
+    "pub_date": "2005-09-14T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/09/14/business/robotic-vehicles-race-but-innovation-wins.html",
+    "section": "Business"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Robot vehicles line up for race in the desert",
+    "snippet": "",
+    "pub_date": "2005-09-14T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/09/14/technology/robot-vehicles-line-up-for-race-in-the-desert.html",
+    "section": "Technology"
+  }
+]
