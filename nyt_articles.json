@@ -1,42 +1,50 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Nvidia Buys Arm From SoftBank for $40 Billion",
-    "snippet": "The move gives Nvidia a way into mobile chips, but the acquisition is likely to face regulatory scrutiny.",
-    "pub_date": "2020-09-14T00:27:54Z",
-    "url": "https://www.nytimes.com/2020/09/13/technology/nvidia-arm-softbank.html",
-    "section": "Technology"
+    "headline": "Lord & Taylor Was More Than a Store",
+    "snippet": "Readers mourn the closing of the legendary department store. Also: Mike Bloomberg’s campaign money; police accountability; misuse of algorithms; hostages in the Trump era.",
+    "pub_date": "2020-09-15T18:27:11Z",
+    "url": "https://www.nytimes.com/2020/09/15/opinion/letters/lord-taylor-closing.html",
+    "section": "Opinion"
   },
   {
     "historical_year": 2020,
-    "headline": "What Is Celebrity?",
-    "snippet": "You voted on the most— and least — important categories of American celebrity. The results surprised us!",
-    "pub_date": "2020-09-14T21:53:17Z",
-    "url": "https://www.nytimes.com/interactive/2020/09/14/style/most-famous-people-in-america.html",
+    "headline": "Gen Zers Say Silicon Valley Is Elitist and Exclusive. Can They Build a New System?",
+    "snippet": "A group of young tech enthusiasts are carving their own path on Discord.",
+    "pub_date": "2020-09-15T09:00:15Z",
+    "url": "https://www.nytimes.com/2020/09/15/style/gen-z-tech-mafia.html",
     "section": "Style"
   },
   {
-    "historical_year": 2015,
-    "headline": "A Departure for Ai Weiwei at the Royal Academy in London",
-    "snippet": "A large exhibition highlights his Chinese work but ushers in a new phase.",
-    "pub_date": "2015-09-14T11:35:06Z",
-    "url": "https://www.nytimes.com/2015/09/15/arts/international/a-departure-for-ai-weiwei-at-the-royal-academy-in-london.html",
-    "section": "Arts"
+    "historical_year": 2020,
+    "headline": "America Is Going to Decapitate Huawei",
+    "snippet": "The United States’ technological dominance gives it an immense power. But how long will that last?",
+    "pub_date": "2020-09-15T09:00:15Z",
+    "url": "https://www.nytimes.com/2020/09/15/opinion/united-states-huawei.html",
+    "section": "Opinion"
   },
   {
-    "historical_year": 2005,
-    "headline": "Robotic Vehicles Race, but Innovation Wins",
-    "snippet": "Pentagon's race called Grand Challenge involving robotic vehicles will be held on Oct 8; driverless, computer-controlled Volkswagen Touareg, known as Stanley, is being prepared by Stanford University computer scientists Sebastian Thrun and Michael Montemerlo; winner of race will receive $2 million; Thrun says his goal is just not winning race but advancing robotics as science and explore applications ranging from aids for elderly to basic advances in intelligent computerized systems; photos (M)",
-    "pub_date": "2005-09-14T05:00:00Z",
-    "url": "https://www.nytimes.com/2005/09/14/business/robotic-vehicles-race-but-innovation-wins.html",
+    "historical_year": 2020,
+    "headline": "Can Airlines Avoid Another Bailout?",
+    "snippet": "They have two weeks to decide whether to accept government rescue loans, or try to weather the storm without them.",
+    "pub_date": "2020-09-15T10:58:14Z",
+    "url": "https://www.nytimes.com/2020/09/15/business/dealbook/airline-bailouts-delta.html",
     "section": "Business"
   },
   {
+    "historical_year": 2015,
+    "headline": "September 15, 2015 — Pictures of the Day",
+    "snippet": "Photos from Germany, Serbia, Hungary and North Korea.",
+    "pub_date": "2015-09-15T22:30:09Z",
+    "url": "https://lens.blogs.nytimes.com/2015/09/15/september-15-2015-pictures-of-the-day/",
+    "section": "Multimedia/Photos"
+  },
+  {
     "historical_year": 2005,
-    "headline": "Robot vehicles line up for race in the desert",
-    "snippet": "",
-    "pub_date": "2005-09-14T05:00:00Z",
-    "url": "https://www.nytimes.com/2005/09/14/technology/robot-vehicles-line-up-for-race-in-the-desert.html",
-    "section": "Technology"
+    "headline": "Automated Intelligence",
+    "snippet": "In this lesson, students redesign everyday robotic devices to increase their autonomy and their usefulness.",
+    "pub_date": "2005-09-15T16:08:00Z",
+    "url": "https://learning.blogs.nytimes.com/2005/09/15/automated-intelligence/",
+    "section": "Education"
   }
 ]
