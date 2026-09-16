@@ -1,50 +1,26 @@
 [
   {
-    "historical_year": 2020,
-    "headline": "Lord & Taylor Was More Than a Store",
-    "snippet": "Readers mourn the closing of the legendary department store. Also: Mike Bloomberg’s campaign money; police accountability; misuse of algorithms; hostages in the Trump era.",
-    "pub_date": "2020-09-15T18:27:11Z",
-    "url": "https://www.nytimes.com/2020/09/15/opinion/letters/lord-taylor-closing.html",
-    "section": "Opinion"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Gen Zers Say Silicon Valley Is Elitist and Exclusive. Can They Build a New System?",
-    "snippet": "A group of young tech enthusiasts are carving their own path on Discord.",
-    "pub_date": "2020-09-15T09:00:15Z",
-    "url": "https://www.nytimes.com/2020/09/15/style/gen-z-tech-mafia.html",
-    "section": "Style"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "America Is Going to Decapitate Huawei",
-    "snippet": "The United States’ technological dominance gives it an immense power. But how long will that last?",
-    "pub_date": "2020-09-15T09:00:15Z",
-    "url": "https://www.nytimes.com/2020/09/15/opinion/united-states-huawei.html",
-    "section": "Opinion"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Can Airlines Avoid Another Bailout?",
-    "snippet": "They have two weeks to decide whether to accept government rescue loans, or try to weather the storm without them.",
-    "pub_date": "2020-09-15T10:58:14Z",
-    "url": "https://www.nytimes.com/2020/09/15/business/dealbook/airline-bailouts-delta.html",
-    "section": "Business"
+    "historical_year": 2015,
+    "headline": "Barbie Wants to Get to Know Your Child",
+    "snippet": "With the help of A.I., America’s most famous doll tries to fulfill a timeless dream — convincing little girls that she’s a real friend. What will happen if they believe her?",
+    "pub_date": "2015-09-16T11:00:05Z",
+    "url": "https://www.nytimes.com/2015/09/20/magazine/barbie-wants-to-get-to-know-your-child.html",
+    "section": "Magazine"
   },
   {
     "historical_year": 2015,
-    "headline": "September 15, 2015 — Pictures of the Day",
-    "snippet": "Photos from Germany, Serbia, Hungary and North Korea.",
-    "pub_date": "2015-09-15T22:30:09Z",
-    "url": "https://lens.blogs.nytimes.com/2015/09/15/september-15-2015-pictures-of-the-day/",
-    "section": "Multimedia/Photos"
+    "headline": "Udacity Says It Can Teach Tech Skills to Millions, and Fast",
+    "snippet": "The online teaching start-up’s “nanodegree” program lets students take their time, offers personalized grading and rewards those who finish.",
+    "pub_date": "2015-09-16T14:32:56Z",
+    "url": "https://www.nytimes.com/2015/09/17/technology/udacity-says-it-can-teach-tech-skills-to-millions.html",
+    "section": "Technology"
   },
   {
-    "historical_year": 2005,
-    "headline": "Automated Intelligence",
-    "snippet": "In this lesson, students redesign everyday robotic devices to increase their autonomy and their usefulness.",
-    "pub_date": "2005-09-15T16:08:00Z",
-    "url": "https://learning.blogs.nytimes.com/2005/09/15/automated-intelligence/",
-    "section": "Education"
+    "historical_year": 2010,
+    "headline": "Finalists for the Vendy Rookie Award Are Announced",
+    "snippet": "The Street Vendor Project selects the best newcomers among New York food trucks.",
+    "pub_date": "2010-09-16T18:39:53Z",
+    "url": "https://dinersjournal.blogs.nytimes.com/2010/09/16/finalists-for-the-vendy-rookie-award-are-announced/",
+    "section": "Style"
   }
 ]
