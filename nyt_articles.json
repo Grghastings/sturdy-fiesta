@@ -1,26 +1,18 @@
 [
   {
-    "historical_year": 2015,
-    "headline": "Barbie Wants to Get to Know Your Child",
-    "snippet": "With the help of A.I., America’s most famous doll tries to fulfill a timeless dream — convincing little girls that she’s a real friend. What will happen if they believe her?",
-    "pub_date": "2015-09-16T11:00:05Z",
-    "url": "https://www.nytimes.com/2015/09/20/magazine/barbie-wants-to-get-to-know-your-child.html",
-    "section": "Magazine"
+    "historical_year": 2020,
+    "headline": "A Car Insurance Claim Estimate Before the Tow Truck Is Called",
+    "snippet": "Using algorithms, tech companies are helping insurers speed up the process after an accident and keep estimators out of the field.",
+    "pub_date": "2020-09-17T10:00:09Z",
+    "url": "https://www.nytimes.com/2020/09/17/business/car-insurance-claim-estimate-artificial-intelligence.html",
+    "section": "Business"
   },
   {
-    "historical_year": 2015,
-    "headline": "Udacity Says It Can Teach Tech Skills to Millions, and Fast",
-    "snippet": "The online teaching start-up’s “nanodegree” program lets students take their time, offers personalized grading and rewards those who finish.",
-    "pub_date": "2015-09-16T14:32:56Z",
-    "url": "https://www.nytimes.com/2015/09/17/technology/udacity-says-it-can-teach-tech-skills-to-millions.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "Finalists for the Vendy Rookie Award Are Announced",
-    "snippet": "The Street Vendor Project selects the best newcomers among New York food trucks.",
-    "pub_date": "2010-09-16T18:39:53Z",
-    "url": "https://dinersjournal.blogs.nytimes.com/2010/09/16/finalists-for-the-vendy-rookie-award-are-announced/",
-    "section": "Style"
+    "historical_year": 2020,
+    "headline": "Art About Waiting — and What It Takes to Endure",
+    "snippet": "In a time of crisis with no end in sight, durational performance, or endurance art, seems apt. Is this the art of our age?",
+    "pub_date": "2020-09-17T13:00:14Z",
+    "url": "https://www.nytimes.com/2020/09/17/t-magazine/Tehching-Hsieh-endurance-art.html",
+    "section": "T Magazine"
   }
 ]
