@@ -1,98 +1,18 @@
 [
   {
     "historical_year": 2020,
-    "headline": "In Prague, a House Without a Key",
-    "snippet": "The villa’s artificial intelligence system manages everything from closing the windows when it rains to melting snow on the driveway.",
-    "pub_date": "2020-09-18T00:39:03Z",
-    "url": "https://www.nytimes.com/2020/09/17/realestate/artificial-intelligence-home-management-prague.html",
-    "section": "Real Estate"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "24 Turing Award winners, worried Trump’s immigration policy is harming technological progress, endorse Biden.",
-    "snippet": "",
-    "pub_date": "2020-09-18T13:19:14Z",
-    "url": "https://www.nytimes.com/2020/09/18/us/elections/24-turing-award-winners-worried-trumps-immigration-policy-is-harming-technological-progress-endorse-biden.html",
-    "section": "U.S."
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Computing Pioneers Endorse Biden, Citing Trump Immigration Crackdown",
-    "snippet": "They said the administration’s policies were driving away technology talent and could do long-term damage to their industry.",
-    "pub_date": "2020-09-18T13:00:14Z",
-    "url": "https://www.nytimes.com/2020/09/18/technology/turing-scientists-endorse-biden.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Is an Algorithm Less Racist Than a Loan Officer?",
-    "snippet": "Digital mortgage platforms have the potential to reduce discrimination. But automated systems provide rich opportunities to perpetuate bias, too.",
-    "pub_date": "2020-09-18T09:00:33Z",
-    "url": "https://www.nytimes.com/2020/09/18/business/digital-mortgages.html",
-    "section": "Business"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Housekeepers are facing ‘a full-blown humanitarian crisis — a Depression-level situation.’",
-    "snippet": "",
-    "pub_date": "2020-09-18T10:37:40Z",
-    "url": "https://www.nytimes.com/live/2020/09/18/business/stock-market-today-coronavirus/18markets-brf-housekeepers",
-    "section": "Business"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Housekeepers Face a Disaster Generations in the Making",
-    "snippet": "Ghosted by their employers, members of the profession are facing “a full-blown humanitarian crisis — a Depression-level situation.”",
-    "pub_date": "2020-09-18T09:00:33Z",
-    "url": "https://www.nytimes.com/2020/09/18/business/housekeepers-covid.html",
-    "section": "Business"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Stuff We Liked: A Chance to Draw Trump",
-    "snippet": "A website allows you to create a painting using only Donald Trump’s head. Send us your creation, and we’ll share a gallery of our favorites next week.",
-    "pub_date": "2015-09-18T14:30:31Z",
-    "url": "https://www.nytimes.com/2015/09/19/upshot/stuff-we-liked-a-chance-to-draw-trump.html",
-    "section": "The Upshot"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "What’s On TV Friday",
-    "snippet": "Television highlights.",
-    "pub_date": "2015-09-18T05:00:05Z",
-    "url": "https://www.nytimes.com/2015/09/18/arts/television/whats-on-tv-friday.html",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "What’s on This Week Around the World",
-    "snippet": "An art festival starts in Jerusalem; the choreographer Boris Charmatz organizes dance events at the Palais Garnier in Paris; Anish Kapoor has a solo exhibition in Moscow.",
-    "pub_date": "2015-09-18T12:40:45Z",
-    "url": "https://artsbeat.blogs.nytimes.com/2015/09/18/whats-on-this-week-around-the-world-42/",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2005,
-    "headline": "Manga for Girls",
-    "snippet": "Walk into almost any chain bookstore and you're likely to find a teenage girl sprawled on the floor reading manga -- thick black-and-white comic books by Japanese authors. Graphic novels, including manga, have been popular with American boys for years now. But, to the surprise of publishers, ''shojo'' comics (or manga for girls) have become one of the hottest markets in the book business. Two publishers -- Viz Media, which is Japanese-owned, and Tokyopop, an American company -- have been the leaders in the American manga market, which has more than doubled since 2002, helped along by a $5 billion business in related animated films, TV series and licensed products like dolls and action figures. Del Rey, in the Random House Publishing Group, has become the first New York publisher to enter the shojo market in a big way (in partnership with Kodansha in Japan). Last year, Del Rey sold a million copies of its first 16 releases combined. Next year, it plans to bring out close to 85 manga titles, most of them aimed at teenage girls.  ",
-    "pub_date": "2005-09-18T05:00:00Z",
-    "url": "https://www.nytimes.com/2005/09/18/books/review/manga-for-girls.html",
+    "headline": "Young Adult Dystopian Fiction That Feels Pretty Real",
+    "snippet": "These four thrillers may be gussied up with future settings, but the problems they confront are rooted in today’s world.",
+    "pub_date": "2020-09-19T05:37:48Z",
+    "url": "https://www.nytimes.com/2020/09/19/books/review/young-adult-crossover-dystopia.html",
     "section": "Books"
   },
   {
-    "historical_year": 2000,
-    "headline": "New Economy; A military agency spends billions on seemingly fantastic projects to ensure U.S. battlefield supremacy.",
-    "snippet": "Defense Advanced Research Projects Agency, agency that played key role in funding development of Internet, other technologies of today's information-driven economy, outlines current agenda for symposium of engineers and high-technology executives; projects, all aimed at preserving technological superiority of United States military, include extremes in miniaturization like molecule-size computers; agency is increasingly looking for ways to repackage civilian technology for military as cost-effective alternative to sponsoring novel projects; drawing (M)",
-    "pub_date": "2000-09-18T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/09/18/business/new-economy-military-agency-spends-billions-seemingly-fantastic-projects-ensure.html",
-    "section": "Business"
-  },
-  {
-    "historical_year": 2000,
-    "headline": "Military Spends Billions to Ensure U.S. Battlefield Supremacy",
-    "snippet": "FOR more than 40 years, the Defense Advanced Research Projects Agency has had the daunting assignment of making sure that no enemy — or, for that matter, any current friend — has access to tomorrow's technology faster than does the Defense Department.",
-    "pub_date": "2000-09-18T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/09/18/technology/military-spends-billions-to-ensure-us-battlefield-supremacy.html",
-    "section": "Technology"
+    "historical_year": 2020,
+    "headline": "Evan Rachel Wood Uses Her Roles to Heal",
+    "snippet": "The actress finds catharsis in roles about pain and in her activism to help the survivors of domestic violence.",
+    "pub_date": "2020-09-19T09:00:10Z",
+    "url": "https://www.nytimes.com/2020/09/19/style/self-care/evan-rachel-wood-kajillionaire.html",
+    "section": "Style"
   }
 ]
