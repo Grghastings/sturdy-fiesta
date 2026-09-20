@@ -1,18 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Young Adult Dystopian Fiction That Feels Pretty Real",
-    "snippet": "These four thrillers may be gussied up with future settings, but the problems they confront are rooted in today’s world.",
-    "pub_date": "2020-09-19T05:37:48Z",
-    "url": "https://www.nytimes.com/2020/09/19/books/review/young-adult-crossover-dystopia.html",
-    "section": "Books"
+    "headline": "‘There’s No There There’: What the TikTok Deal Achieved",
+    "snippet": "The agreement for the social media app falls short of President Trump’s promises.",
+    "pub_date": "2020-09-20T22:21:46Z",
+    "url": "https://www.nytimes.com/2020/09/20/technology/tiktok-trump-victory.html",
+    "section": "Technology"
   },
   {
-    "historical_year": 2020,
-    "headline": "Evan Rachel Wood Uses Her Roles to Heal",
-    "snippet": "The actress finds catharsis in roles about pain and in her activism to help the survivors of domestic violence.",
-    "pub_date": "2020-09-19T09:00:10Z",
-    "url": "https://www.nytimes.com/2020/09/19/style/self-care/evan-rachel-wood-kajillionaire.html",
-    "section": "Style"
+    "historical_year": 2015,
+    "headline": "Software Is Smart Enough for SAT, but Still Far From Intelligent",
+    "snippet": "In a first, an artificial intelligence program answered math questions on the SAT by understanding diagrams and sentences, but scientists say machine thinking is still a long way off.",
+    "pub_date": "2015-09-20T19:42:19Z",
+    "url": "https://www.nytimes.com/2015/09/21/technology/personaltech/software-is-smart-enough-for-sat-but-still-far-from-intelligent.html",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Jade From China’s West Surpasses Gold in Value",
+    "snippet": "Jade has brought prosperity to Khotan, a city whose previous bout of affluence occurred a few thousand years ago, at the height of the Silk Road.",
+    "pub_date": "2010-09-20T19:13:55Z",
+    "url": "https://www.nytimes.com/2010/09/21/world/asia/21jade.html",
+    "section": "World"
+  },
+  {
+    "historical_year": 2000,
+    "headline": "Safin, U.S. Open Victor, Loses Cool and Match",
+    "snippet": "SYDNEY, Australia, Sept. 20 — \"Some day he's going to crush me,\" Fabrice Santoro said. \"It's just a matter of time.\"",
+    "pub_date": "2000-09-20T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/20/olympics/safin-us-open-victor-loses-cool-and-match.html",
+    "section": "Sports"
   }
 ]
