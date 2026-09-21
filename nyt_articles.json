@@ -1,34 +1,50 @@
 [
   {
     "historical_year": 2020,
-    "headline": "‘There’s No There There’: What the TikTok Deal Achieved",
-    "snippet": "The agreement for the social media app falls short of President Trump’s promises.",
-    "pub_date": "2020-09-20T22:21:46Z",
-    "url": "https://www.nytimes.com/2020/09/20/technology/tiktok-trump-victory.html",
-    "section": "Technology"
+    "headline": "YoungBoy Never Broke Again Earns a Third No. 1 Album in a Year",
+    "snippet": "“Top” opened at the top of the Billboard 200 with the equivalent of 126,000 sales, demonstrating the power of frequently delivering new music.",
+    "pub_date": "2020-09-21T17:14:59Z",
+    "url": "https://www.nytimes.com/2020/09/21/arts/music/youngboy-never-broke-again-top-billboard.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "How Ginsburg’s Successor Could Remake Business",
+    "snippet": "How Ruth Bader Ginsburg’s successor could remake business.",
+    "pub_date": "2020-09-21T11:43:10Z",
+    "url": "https://www.nytimes.com/2020/09/21/business/dealbook/ruth-bader-ginsburg-business.html",
+    "section": "Business"
   },
   {
     "historical_year": 2015,
-    "headline": "Software Is Smart Enough for SAT, but Still Far From Intelligent",
-    "snippet": "In a first, an artificial intelligence program answered math questions on the SAT by understanding diagrams and sentences, but scientists say machine thinking is still a long way off.",
-    "pub_date": "2015-09-20T19:42:19Z",
-    "url": "https://www.nytimes.com/2015/09/21/technology/personaltech/software-is-smart-enough-for-sat-but-still-far-from-intelligent.html",
-    "section": "Technology"
+    "headline": "How I Learned to Stop Worrying and Love A.I.",
+    "snippet": "We should acknowledge what computers do better than we do, and get on with the business of being human.",
+    "pub_date": "2015-09-21T10:50:55Z",
+    "url": "https://opinionator.blogs.nytimes.com/2015/09/21/how-i-learned-to-stop-worrying-and-love-a-i/",
+    "section": "Opinion"
   },
   {
-    "historical_year": 2010,
-    "headline": "Jade From China’s West Surpasses Gold in Value",
-    "snippet": "Jade has brought prosperity to Khotan, a city whose previous bout of affluence occurred a few thousand years ago, at the height of the Silk Road.",
-    "pub_date": "2010-09-20T19:13:55Z",
-    "url": "https://www.nytimes.com/2010/09/21/world/asia/21jade.html",
+    "historical_year": 2015,
+    "headline": "Malaysia’s Leader, Najib Razak, Faces U.S. Corruption Inquiry",
+    "snippet": "The prime minister, already involved in several other investigations, is being examined by a federal grand jury on charges of corruption related to questions about real estate deals in the United States.",
+    "pub_date": "2015-09-21T21:12:24Z",
+    "url": "https://www.nytimes.com/2015/09/22/world/asia/malaysias-leader-najib-razak-faces-us-corruption-inquiry.html",
     "section": "World"
   },
   {
+    "historical_year": 2010,
+    "headline": "New Worlds to Conquer, Even for Casual Rulers",
+    "snippet": "Sid Meier’s Civilization V offers the joys and challenges of nation building to players new to the game.",
+    "pub_date": "2010-09-21T22:33:26Z",
+    "url": "https://www.nytimes.com/2010/09/22/arts/22civilization.html",
+    "section": "Arts"
+  },
+  {
     "historical_year": 2000,
-    "headline": "Safin, U.S. Open Victor, Loses Cool and Match",
-    "snippet": "SYDNEY, Australia, Sept. 20 — \"Some day he's going to crush me,\" Fabrice Santoro said. \"It's just a matter of time.\"",
-    "pub_date": "2000-09-20T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/09/20/olympics/safin-us-open-victor-loses-cool-and-match.html",
+    "headline": "SYDNEY 2000: TENNIS; Safin, U.S. Open Victor, Loses Cool and Match",
+    "snippet": "First round results in tennis competition at Sydney Olympics noted; Fabrice Santoro (France) defeats Marat Safin (Russia) (M)",
+    "pub_date": "2000-09-21T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/21/sports/sydney-2000-tennis-safin-us-open-victor-loses-cool-and-match.html",
     "section": "Sports"
   }
 ]
