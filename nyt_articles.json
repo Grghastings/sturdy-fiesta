@@ -1,10 +1,42 @@
 [
   {
+    "historical_year": 2020,
+    "headline": "Force Feed",
+    "snippet": "Rachel Fabi’s debut puzzle breaks the internet.",
+    "pub_date": "2020-09-25T01:40:02Z",
+    "url": "https://www.nytimes.com/2020/09/24/crosswords/daily-puzzle-2020-09-25.html",
+    "section": "Gameplay"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Corrections: Sept. 25, 2020",
+    "snippet": "Corrections that appeared in print on Friday, Sept. 25, 2020.",
+    "pub_date": "2020-09-25T02:09:13Z",
+    "url": "https://www.nytimes.com/2020/09/24/pageoneplus/corrections-sept-25-2020.html",
+    "section": "Corrections"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Every Atom, Molecule and Cell Connected",
+    "snippet": "Dr. Anastasia Grivoyannis and Brian Pujanauski met on a dating app last year and immediate fell in love — with each other’s mind.",
+    "pub_date": "2020-09-25T09:00:13Z",
+    "url": "https://www.nytimes.com/2020/09/25/style/every-atom-molecule-and-cell-connected.html",
+    "section": "Style"
+  },
+  {
     "historical_year": 2015,
-    "headline": "IBM’s A.I. System Watson to Get Second Home, on West Coast",
-    "snippet": "IBM will announce Watson’s new abilities, but it hopes to open the system up to software developers, highlighting start-ups.",
-    "pub_date": "2015-09-24T04:01:20Z",
-    "url": "https://www.nytimes.com/2015/09/25/technology/ibms-ai-system-watson-to-get-new-west-coast-home.html",
-    "section": "Technology"
+    "headline": "What’s on This Week Around the World",
+    "snippet": "An exhibition on the history of the nation kicks off in Singapore, a museum show in The Hague explores the advent of modernism, and a music festival gets underway in Malawi.",
+    "pub_date": "2015-09-25T14:25:29Z",
+    "url": "https://artsbeat.blogs.nytimes.com/2015/09/25/whats-on-this-week-around-the-world-43/",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2000,
+    "headline": "MEDIA: Dreaming in Tighter Focus; DreamWorks Scales Back Its Once-Grand Vision",
+    "snippet": "Dreamworks SKG, which planned works in wide range of entertainment media, finds true success only in movie making, with its films grossing on average 15 percent more per film than any other studio; ranks close second behind Walt Disney Co's Buena Vista so far this year in box office revenue, even though Buena Vista has released nearly twice as many movies; David Geffen and Jeffrey Katzenberg comment on scaled back plans; graphs of box office receipts; photos (M)",
+    "pub_date": "2000-09-25T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/09/25/business/media-dreaming-in-tighter-focus-dreamworks-scales-back-its-once-grand-vision.html",
+    "section": "Business"
   }
 ]
