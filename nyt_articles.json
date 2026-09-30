@@ -1,10 +1,42 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Pentagon Is Clinging to Aging Technologies, House Panel Warns",
-    "snippet": "Despite the Pentagon’s talk of embracing quantum computing and artificial intelligence, the politics of killing off old weapons systems is so forbidding that the efforts often falter.",
-    "pub_date": "2020-09-29T22:27:47Z",
-    "url": "https://www.nytimes.com/2020/09/29/us/politics/military-cyberweapons-artificial-intelligence.html",
+    "headline": "Stream These Underrated Steven Spielberg Movies",
+    "snippet": "The greatest films of Steven Spielberg are known by all. But the director’s other projects provide an equally interesting handful. Here are 11 worthy of more appreciation.",
+    "pub_date": "2020-09-30T01:42:49Z",
+    "url": "https://www.nytimes.com/article/underrated-steven-spielberg-movies.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "House Reports Push for More Focus on China by Intelligence Agencies",
+    "snippet": "Separate studies by Democrats and Republicans reached a similar conclusion: More resources are needed to compete with Beijing.",
+    "pub_date": "2020-09-30T18:45:54Z",
+    "url": "https://www.nytimes.com/2020/09/30/us/politics/house-intelligence-china.html",
     "section": "U.S."
+  },
+  {
+    "historical_year": 2015,
+    "headline": "The New York Film Festival Contrasts the Human Pulse and the Digital",
+    "snippet": "The festival juxtaposes portraits of clinical minds, like “Steve Jobs” and “Experimenter,” and compassionate films like the documentary “Where to Invade Next.”",
+    "pub_date": "2015-09-30T21:40:29Z",
+    "url": "https://www.nytimes.com/2015/10/01/movies/the-new-york-film-festival-contrasts-the-human-pulse-and-the-digital.html",
+    "section": "Movies"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "VW Scandal Shows a Need for More Tech, Not Less",
+    "snippet": "The world is in an uncomfortable lull between the mechanical automobile age and full-fledged computerized intelligence in our cars.",
+    "pub_date": "2015-09-30T09:02:13Z",
+    "url": "https://www.nytimes.com/2015/10/01/technology/vw-scandal-shows-a-need-for-more-tech-not-less.html",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Identity Crisis",
+    "snippet": "Sign your John Hancock here. Or is it your Lady Gaga?",
+    "pub_date": "2010-09-30T12:30:40Z",
+    "url": "https://tmagazine.blogs.nytimes.com/2010/09/30/identity-crisis/",
+    "section": "T Magazine"
   }
 ]
