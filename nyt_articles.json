@@ -1,42 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Stream These Underrated Steven Spielberg Movies",
-    "snippet": "The greatest films of Steven Spielberg are known by all. But the director’s other projects provide an equally interesting handful. Here are 11 worthy of more appreciation.",
-    "pub_date": "2020-09-30T01:42:49Z",
-    "url": "https://www.nytimes.com/article/underrated-steven-spielberg-movies.html",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "House Reports Push for More Focus on China by Intelligence Agencies",
-    "snippet": "Separate studies by Democrats and Republicans reached a similar conclusion: More resources are needed to compete with Beijing.",
-    "pub_date": "2020-09-30T18:45:54Z",
-    "url": "https://www.nytimes.com/2020/09/30/us/politics/house-intelligence-china.html",
-    "section": "U.S."
-  },
-  {
-    "historical_year": 2015,
-    "headline": "The New York Film Festival Contrasts the Human Pulse and the Digital",
-    "snippet": "The festival juxtaposes portraits of clinical minds, like “Steve Jobs” and “Experimenter,” and compassionate films like the documentary “Where to Invade Next.”",
-    "pub_date": "2015-09-30T21:40:29Z",
-    "url": "https://www.nytimes.com/2015/10/01/movies/the-new-york-film-festival-contrasts-the-human-pulse-and-the-digital.html",
-    "section": "Movies"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "VW Scandal Shows a Need for More Tech, Not Less",
-    "snippet": "The world is in an uncomfortable lull between the mechanical automobile age and full-fledged computerized intelligence in our cars.",
-    "pub_date": "2015-09-30T09:02:13Z",
-    "url": "https://www.nytimes.com/2015/10/01/technology/vw-scandal-shows-a-need-for-more-tech-not-less.html",
+    "headline": "In U.S.-China Tech Feud, Taiwan Feels Heat From Both Sides",
+    "snippet": "The island’s biggest chip maker has been a coveted partner to both battling giants. But rising nationalism is making it harder to keep the middle ground.",
+    "pub_date": "2020-10-01T09:00:26Z",
+    "url": "https://www.nytimes.com/2020/10/01/technology/taiwan-china-tsmc-huawei.html",
     "section": "Technology"
   },
   {
-    "historical_year": 2010,
-    "headline": "Identity Crisis",
-    "snippet": "Sign your John Hancock here. Or is it your Lady Gaga?",
-    "pub_date": "2010-09-30T12:30:40Z",
-    "url": "https://tmagazine.blogs.nytimes.com/2010/09/30/identity-crisis/",
+    "historical_year": 2020,
+    "headline": "The 50 Best Documentaries on Netflix Right Now",
+    "snippet": "From true-crime series to Oscar-winning movies, the streaming giant has gone all in on nonfiction filmmaking. Here are the ones you should check out.",
+    "pub_date": "2020-10-01T18:37:49Z",
+    "url": "https://www.nytimes.com/article/best-documentaries-netflix.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "A Dinner — and a Recipe — Celebrating Naples",
+    "snippet": "Rossana Orlandi hosted an 18th-century-style Neapolitan feast in the courtyard of her gallery-cum-design-shop in Milan Tuesday night.",
+    "pub_date": "2015-10-01T16:38:06Z",
+    "url": "https://www.nytimes.com/2015/10/01/t-magazine/i-primi-naples-dinner-pasta-recipe.html",
     "section": "T Magazine"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Theater Listings for Oct. 2-8",
+    "snippet": "A critical guide to productions in New York City, including shows in previews.",
+    "pub_date": "2015-10-01T22:48:37Z",
+    "url": "https://www.nytimes.com/2015/10/02/theater/theater-listings-for-oct-2-8.html",
+    "section": "Theater"
   }
 ]
