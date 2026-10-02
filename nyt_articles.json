@@ -1,34 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "In U.S.-China Tech Feud, Taiwan Feels Heat From Both Sides",
-    "snippet": "The island’s biggest chip maker has been a coveted partner to both battling giants. But rising nationalism is making it harder to keep the middle ground.",
-    "pub_date": "2020-10-01T09:00:26Z",
-    "url": "https://www.nytimes.com/2020/10/01/technology/taiwan-china-tsmc-huawei.html",
+    "headline": "Tech Isn’t the Answer for Test Taking",
+    "snippet": "Taking tests remotely is a problem. That doesn’t mean technology is the solution.",
+    "pub_date": "2020-10-02T16:38:40Z",
+    "url": "https://www.nytimes.com/2020/10/02/technology/tech-test-taking.html",
     "section": "Technology"
   },
   {
     "historical_year": 2020,
-    "headline": "The 50 Best Documentaries on Netflix Right Now",
-    "snippet": "From true-crime series to Oscar-winning movies, the streaming giant has gone all in on nonfiction filmmaking. Here are the ones you should check out.",
-    "pub_date": "2020-10-01T18:37:49Z",
-    "url": "https://www.nytimes.com/article/best-documentaries-netflix.html",
+    "headline": "Trump Cracks Down on Visas. Indian Firms May Benefit.",
+    "snippet": "As the president clashes with the courts, some companies and investors say tougher limits on temporary work visas will help push jobs overseas.",
+    "pub_date": "2020-10-02T15:27:44Z",
+    "url": "https://www.nytimes.com/2020/10/02/technology/trump-india-hib-visas.html",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "The 9.20.15 Issue",
+    "snippet": "Readers respond.",
+    "pub_date": "2015-10-02T10:59:03Z",
+    "url": "https://www.nytimes.com/2015/10/04/magazine/the-9-20-15-issue.html",
+    "section": "Magazine"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "What’s On TV Friday",
+    "snippet": "Television highlights.",
+    "pub_date": "2015-10-02T04:24:03Z",
+    "url": "https://www.nytimes.com/2015/10/02/arts/television/whats-on-tv-friday.html",
     "section": "Arts"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "A Dinner — and a Recipe — Celebrating Naples",
-    "snippet": "Rossana Orlandi hosted an 18th-century-style Neapolitan feast in the courtyard of her gallery-cum-design-shop in Milan Tuesday night.",
-    "pub_date": "2015-10-01T16:38:06Z",
-    "url": "https://www.nytimes.com/2015/10/01/t-magazine/i-primi-naples-dinner-pasta-recipe.html",
-    "section": "T Magazine"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Theater Listings for Oct. 2-8",
-    "snippet": "A critical guide to productions in New York City, including shows in previews.",
-    "pub_date": "2015-10-01T22:48:37Z",
-    "url": "https://www.nytimes.com/2015/10/02/theater/theater-listings-for-oct-2-8.html",
-    "section": "Theater"
   }
 ]
