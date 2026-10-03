@@ -1,34 +1,18 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Tech Isn’t the Answer for Test Taking",
-    "snippet": "Taking tests remotely is a problem. That doesn’t mean technology is the solution.",
-    "pub_date": "2020-10-02T16:38:40Z",
-    "url": "https://www.nytimes.com/2020/10/02/technology/tech-test-taking.html",
-    "section": "Technology"
+    "headline": "Britain and E.U. Enter Make-or-Break Phase for Brexit Deal by Year’s End",
+    "snippet": "Prime Minister Boris Johnson and the president of the European Commission agreed that the two sides shared enough common ground to aim for a final settlement.",
+    "pub_date": "2020-10-03T15:06:16Z",
+    "url": "https://www.nytimes.com/2020/10/03/world/europe/brexit-deal-talks.html",
+    "section": "World"
   },
   {
-    "historical_year": 2020,
-    "headline": "Trump Cracks Down on Visas. Indian Firms May Benefit.",
-    "snippet": "As the president clashes with the courts, some companies and investors say tougher limits on temporary work visas will help push jobs overseas.",
-    "pub_date": "2020-10-02T15:27:44Z",
-    "url": "https://www.nytimes.com/2020/10/02/technology/trump-india-hib-visas.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "The 9.20.15 Issue",
-    "snippet": "Readers respond.",
-    "pub_date": "2015-10-02T10:59:03Z",
-    "url": "https://www.nytimes.com/2015/10/04/magazine/the-9-20-15-issue.html",
-    "section": "Magazine"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "What’s On TV Friday",
-    "snippet": "Television highlights.",
-    "pub_date": "2015-10-02T04:24:03Z",
-    "url": "https://www.nytimes.com/2015/10/02/arts/television/whats-on-tv-friday.html",
-    "section": "Arts"
+    "historical_year": 2005,
+    "headline": "One Month Later, Flickering Lights Reveal a City That Is Far From Being Reclaimed",
+    "snippet": "Abandoned city buses on deserted streets, doors opened for the boarding of ghosts. Fast-food restaurants, darkened and reeking of rancid meat. Tainted tap water, unsafe for contact with skin. Entire neighborhoods of empty, moldy houses, waiting for that bulldozer's first punch.     No children.  ",
+    "pub_date": "2005-10-03T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/03/us/nationalspecial/one-month-later-flickering-lights-reveal-a-city-that-is.html",
+    "section": "U.S."
   }
 ]
