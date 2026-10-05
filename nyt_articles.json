@@ -1,18 +1,50 @@
 [
   {
+    "historical_year": 2020,
+    "headline": "Corporations Must Do Their Part to Preserve Democracy",
+    "snippet": "China does whatever it can to thrive economically, putting freedom and prosperity at risk for the rest of the world.",
+    "pub_date": "2020-10-05T10:00:07Z",
+    "url": "https://www.nytimes.com/2020/10/05/opinion/international-world/corporations-preserve-democracy.html",
+    "section": "Opinion"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "What’s on TV This Week: ‘Soulmates’ and the Vice-Presidential Debate",
+    "snippet": "A new anthology series centers on a futuristic test that can determine a person’s soul mate, Mike Pence and Kamala Harris face off on Wednesday and classic Halloween movies come to Freeform and AMC.",
+    "pub_date": "2020-10-05T05:00:07Z",
+    "url": "https://www.nytimes.com/2020/10/05/arts/television/whats-on-tv-soulmates-vice-presidential-debate.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Ai Weiwei Returns to Beijing to Find Listening Devices in His Studio and Home",
+    "snippet": "The Chinese artist and activist, who had just taken his first overseas trip in four years, said that he had uncovered several listening devices hidden around his work space and living room.",
+    "pub_date": "2015-10-05T15:03:21Z",
+    "url": "https://artsbeat.blogs.nytimes.com/2015/10/05/ai-weiwei-returns-to-beijing-to-find-listening-devices-in-his-studio-and-home/",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Cisco’s New C.E.O. Envisions Big Changes",
+    "snippet": "Charles Robbins, who has kept a low profile since he became chief executive of Cisco in July, has a vision for the company with a lot more artificial intelligence and new business models.",
+    "pub_date": "2015-10-05T23:11:05Z",
+    "url": "https://bits.blogs.nytimes.com/2015/10/05/ciscos-new-c-e-o-envisions-big-changes/",
+    "section": "Technology"
+  },
+  {
     "historical_year": 2010,
-    "headline": "Aiming to Learn as We Do, a Machine Teaches Itself",
-    "snippet": "Researchers are fine-tuning a computer system that is trying to master semantics by learning more like a human.",
-    "pub_date": "2010-10-04T19:02:27Z",
-    "url": "https://www.nytimes.com/2010/10/05/science/05compute.html",
-    "section": "Science"
+    "headline": "New in EA’s FIFA 11 Game: Career Mode, ‘Dad Pad’ and More",
+    "snippet": "The new version of FIFA 11 from EA Sports, a game the company asserts is the best-selling sports title in the world, has incorporated a number of new features.",
+    "pub_date": "2010-10-05T21:58:22Z",
+    "url": "https://goal.blogs.nytimes.com/2010/10/05/new-in-eas-fifa-11-game-career-mode-dad-pad-and-more/",
+    "section": "Sports"
   },
   {
     "historical_year": 2000,
-    "headline": "PLUS: TENNIS; Capriati Eliminated In the First Round",
-    "snippet": "Opening round results of Porsche Grand Prix in Filderstadt, Germany, noted (S)",
-    "pub_date": "2000-10-04T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/10/04/sports/plus-tennis-capriati-eliminated-in-the-first-round.html",
-    "section": "Sports"
+    "headline": "GAME THEORY; Playing War, but With a New Set of Rules",
+    "snippet": "Peter Olafson reviews Combat Mission, 3-D computer war game from Big Time Software; photo (M)",
+    "pub_date": "2000-10-05T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/10/05/technology/game-theory-playing-war-but-with-a-new-set-of-rules.html",
+    "section": "Technology"
   }
 ]
