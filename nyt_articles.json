@@ -1,26 +1,18 @@
 [
   {
     "historical_year": 2020,
-    "headline": "In ‘Next,’ a ‘Mad Men’ Star Gets Madder",
-    "snippet": "John Slattery stars as an irascible former tech titan in the new Fox drama. In a conversation, he discusses artificial intelligence, Emmy disappointment and life as a middle-aged sex symbol.",
-    "pub_date": "2020-10-06T13:43:04Z",
-    "url": "https://www.nytimes.com/2020/10/06/arts/television/john-slattery-next.html",
-    "section": "Arts"
+    "headline": "How We Exercise During a Pandemic",
+    "snippet": "It’s one way of residing in a body.",
+    "pub_date": "2020-10-07T20:00:03Z",
+    "url": "https://www.nytimes.com/2020/10/07/at-home/newsletter.html",
+    "section": "At Home"
   },
   {
     "historical_year": 2020,
-    "headline": "Nobel Prize in Physics Awarded to 3 Scientists for Work on Black Holes",
-    "snippet": "The prize was awarded half to Roger Penrose for showing how black holes could form and half to Reinhard Genzel and Andrea Ghez for discovering a supermassive object at the Milky Way’s center.",
-    "pub_date": "2020-10-06T10:15:49Z",
-    "url": "https://www.nytimes.com/2020/10/06/science/nobel-prize-physics.html",
-    "section": "Science"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Morning Agenda: Activist Investors and Billion-Dollar Bets",
-    "snippet": "Bernanke’s Frank Look at Lehman Brothers | Supreme Court Denies Insider Trading Hearing",
-    "pub_date": "2015-10-06T10:04:49Z",
-    "url": "https://news.blogs.nytimes.com/2015/10/06/morning-agenda-activist-investors-and-billion-dollar-bets/",
-    "section": "Blogs"
+    "headline": "The Promise and the Reality of Gene Editing",
+    "snippet": "In “Editing Humanity,” Kevin Davies offers an account of Crispr at a moment when its leading American researcher has just won the Nobel Prize in Chemistry.",
+    "pub_date": "2020-10-07T17:58:38Z",
+    "url": "https://www.nytimes.com/2020/10/07/books/review/editing-humanity-kevin-davies.html",
+    "section": "Books"
   }
 ]
