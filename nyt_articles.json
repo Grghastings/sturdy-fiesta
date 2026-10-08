@@ -1,18 +1,50 @@
 [
   {
     "historical_year": 2020,
-    "headline": "How We Exercise During a Pandemic",
-    "snippet": "It’s one way of residing in a body.",
-    "pub_date": "2020-10-07T20:00:03Z",
-    "url": "https://www.nytimes.com/2020/10/07/at-home/newsletter.html",
-    "section": "At Home"
+    "headline": "IBM, Seeing Its Future in the Cloud, Breaks Off I.T. Unit",
+    "snippet": "The split-up strategy reflects how decisively computing has shifted to the cloud.",
+    "pub_date": "2020-10-08T18:39:23Z",
+    "url": "https://www.nytimes.com/2020/10/08/technology/ibm-cloud-spinoff.html",
+    "section": "Technology"
   },
   {
     "historical_year": 2020,
-    "headline": "The Promise and the Reality of Gene Editing",
-    "snippet": "In “Editing Humanity,” Kevin Davies offers an account of Crispr at a moment when its leading American researcher has just won the Nobel Prize in Chemistry.",
-    "pub_date": "2020-10-07T17:58:38Z",
-    "url": "https://www.nytimes.com/2020/10/07/books/review/editing-humanity-kevin-davies.html",
-    "section": "Books"
+    "headline": "IBM plans to split off lagging legacy tech business as focus shifts to cloud.",
+    "snippet": "",
+    "pub_date": "2020-10-08T15:08:43Z",
+    "url": "https://www.nytimes.com/live/2020/10/08/business/us-economy-coronavirus/ibm-plans-to-split-off-lagging-legacy-tech-business-as-focus-shifts-to-cloud",
+    "section": "Business"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "A New Kind of Fund That Is Stingier With Information",
+    "snippet": "Once, exchange-traded funds all tried to mirror the market. Now some are trying to beat it, in some cases by concealing their day-to-day trades.",
+    "pub_date": "2020-10-08T11:00:07Z",
+    "url": "https://www.nytimes.com/article/etf-funds.html",
+    "section": "Business"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Start-Ups Picked by Disney Hint at Future Tech for Children",
+    "snippet": "Roughly half of the companies use data – in one case collected directly from people’s brains – to make products more appealing.",
+    "pub_date": "2015-10-08T14:43:50Z",
+    "url": "https://bits.blogs.nytimes.com/2015/10/08/start-ups-picked-by-disney-hint-at-future-tech-for-children/",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Robotic Vehicles Contend for the Battlefield",
+    "snippet": "Several years ago, Darpa, the Pentagon's advanced research arm, embarked on an unusual experiment by offering a $1 million prize and inviting all comers to build autonomous vehicles capable of navigating a lengthy desert course.     The result of the first race in 2004 was a disappointment, but on Saturday, 17 months after the first autonomous vehicle grand challenge, 23 finalists will set off again in search of a prize that has swollen to $2 million.  ",
+    "pub_date": "2005-10-08T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/08/technology/robotic-vehicles-contend-for-the-battlefield.html",
+    "section": "Business"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Robotic Vehicles Contend for the Battlefield",
+    "snippet": "Fifteen robotic vehicles sprinted through the Nevada desert Saturday afternoon, closing in on a $2 million prize from the Pentagon.",
+    "pub_date": "2005-10-08T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/08/technology/robotic-vehicles-contend-for-the-battlefield-92546449348.html",
+    "section": "Technology"
   }
 ]
