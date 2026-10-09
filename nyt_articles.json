@@ -1,50 +1,106 @@
 [
   {
     "historical_year": 2020,
-    "headline": "IBM, Seeing Its Future in the Cloud, Breaks Off I.T. Unit",
-    "snippet": "The split-up strategy reflects how decisively computing has shifted to the cloud.",
-    "pub_date": "2020-10-08T18:39:23Z",
-    "url": "https://www.nytimes.com/2020/10/08/technology/ibm-cloud-spinoff.html",
-    "section": "Technology"
+    "headline": "Facebook and the Group That Planned to Kidnap Gretchen Whitmer",
+    "snippet": "Extremist groups and conspiracy theorists like to connect with each other just like everyone else.",
+    "pub_date": "2020-10-09T00:59:07Z",
+    "url": "https://www.nytimes.com/2020/10/08/opinion/facebook-gretchen-whitmer.html",
+    "section": "Opinion"
   },
   {
     "historical_year": 2020,
-    "headline": "IBM plans to split off lagging legacy tech business as focus shifts to cloud.",
-    "snippet": "",
-    "pub_date": "2020-10-08T15:08:43Z",
-    "url": "https://www.nytimes.com/live/2020/10/08/business/us-economy-coronavirus/ibm-plans-to-split-off-lagging-legacy-tech-business-as-focus-shifts-to-cloud",
+    "headline": "Are Straight People OK? And Other Questions About Love and Sexuality",
+    "snippet": "Three new books explore the past, present and future of romantic partnership.",
+    "pub_date": "2020-10-09T16:10:46Z",
+    "url": "https://www.nytimes.com/2020/10/09/books/review/matrimony-inc-francesca-beauman-ace-angela-chen-the-tragedy-of-heterosexuality-jane-ward.html",
+    "section": "Books"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Morgan Stanley’s Makeover",
+    "snippet": "The Wall Street stalwart is betting that investors want it to be more boring.",
+    "pub_date": "2020-10-09T11:12:48Z",
+    "url": "https://www.nytimes.com/2020/10/09/business/dealbook/morgan-stanley-eaton-vance.html",
     "section": "Business"
   },
   {
     "historical_year": 2020,
-    "headline": "A New Kind of Fund That Is Stingier With Information",
-    "snippet": "Once, exchange-traded funds all tried to mirror the market. Now some are trying to beat it, in some cases by concealing their day-to-day trades.",
-    "pub_date": "2020-10-08T11:00:07Z",
-    "url": "https://www.nytimes.com/article/etf-funds.html",
-    "section": "Business"
+    "headline": "‘Our Democracies Need to Change’",
+    "snippet": "As global crises shake nations to the core, attendees at this year’s retooled Athens Democracy Forum point to the need for governments to be more responsive to their citizens.",
+    "pub_date": "2020-10-09T18:00:07Z",
+    "url": "https://www.nytimes.com/2020/10/09/opinion/international-world/athens-democracy-forum.html",
+    "section": "Opinion"
   },
   {
     "historical_year": 2015,
-    "headline": "Start-Ups Picked by Disney Hint at Future Tech for Children",
-    "snippet": "Roughly half of the companies use data – in one case collected directly from people’s brains – to make products more appealing.",
-    "pub_date": "2015-10-08T14:43:50Z",
-    "url": "https://bits.blogs.nytimes.com/2015/10/08/start-ups-picked-by-disney-hint-at-future-tech-for-children/",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2005,
-    "headline": "Robotic Vehicles Contend for the Battlefield",
-    "snippet": "Several years ago, Darpa, the Pentagon's advanced research arm, embarked on an unusual experiment by offering a $1 million prize and inviting all comers to build autonomous vehicles capable of navigating a lengthy desert course.     The result of the first race in 2004 was a disappointment, but on Saturday, 17 months after the first autonomous vehicle grand challenge, 23 finalists will set off again in search of a prize that has swollen to $2 million.  ",
-    "pub_date": "2005-10-08T05:00:00Z",
-    "url": "https://www.nytimes.com/2005/10/08/technology/robotic-vehicles-contend-for-the-battlefield.html",
+    "headline": "Computer Scientists Wield Artificial Intelligence to Battle Tax Evasion",
+    "snippet": "Researchers use an algorithm to detect a type of tax shelter dodge used by partnerships.",
+    "pub_date": "2015-10-09T18:14:54Z",
+    "url": "https://www.nytimes.com/2015/10/10/business/computer-scientists-wield-artificial-intelligence-to-battle-tax-evasion.html",
     "section": "Business"
   },
   {
+    "historical_year": 2010,
+    "headline": "Google Cars Drive Themselves, in Traffic",
+    "snippet": "Google has been working on vehicles that can drive themselves using software.",
+    "pub_date": "2010-10-09T18:33:45Z",
+    "url": "https://www.nytimes.com/2010/10/10/science/10google.html",
+    "section": "Science"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Guided by Computers and Sensors, a Smooth Ride at 60 Miles Per Hour",
+    "snippet": "Designers of self-driving cars have made advances in detecting pedestrians, street lights and lane markers, as well as in resolving conflicting sensor data.",
+    "pub_date": "2010-10-09T18:33:40Z",
+    "url": "https://www.nytimes.com/2010/10/10/science/10googleside.html",
+    "section": "Science"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Political Pundit Whose Passion Is for the Fate of Kings",
+    "snippet": "Charles Krauthammer, a Pulitzer Prize-winning columnist for The Washington Post, has been passionate about the game since he was 20.",
+    "pub_date": "2010-10-09T22:22:46Z",
+    "url": "https://www.nytimes.com/2010/10/10/crosswords/chess/10chess.html",
+    "section": "Gameplay"
+  },
+  {
     "historical_year": 2005,
-    "headline": "Robotic Vehicles Contend for the Battlefield",
-    "snippet": "Fifteen robotic vehicles sprinted through the Nevada desert Saturday afternoon, closing in on a $2 million prize from the Pentagon.",
-    "pub_date": "2005-10-08T05:00:00Z",
-    "url": "https://www.nytimes.com/2005/10/08/technology/robotic-vehicles-contend-for-the-battlefield-92546449348.html",
-    "section": "Technology"
+    "headline": "In a Grueling Desert Race, A Winner, But Not a Driver",
+    "snippet": "Stanley, a robotic vehicle designed by a Stanford University team, appeared to earn its creators a $2 million prize on Saturday by being the fastest finisher on a 132-mile course through the Nevada desert.     The race, called the Grand Challenge, was a Pentagon project meant to promote the development of technologies for 21st-century automated warfare. The car was not immediately declared the winner because officials were doing final calculations, but race times on the event's Web site indicated that it had come in several minutes ahead of two entries from Carnegie Mellon University.  ",
+    "pub_date": "2005-10-09T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/09/us/in-a-grueling-desert-race-a-winner-but-not-a-driver.html",
+    "section": "U.S."
+  },
+  {
+    "historical_year": 2005,
+    "headline": "In a Grueling Desert Race, a Winner, but Not a Driver",
+    "snippet": "The Grand Challenge was a Pentagon project meant to spur development of technologies for 21st-century automated warfare.",
+    "pub_date": "2005-10-09T04:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/09/us/in-a-grueling-desert-race-a-winner-but-not-a-driver.html",
+    "section": "Archives"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "The Remix; Art Park",
+    "snippet": "An international flock of young architects has left its imprint on Jinhua, a city about four hours south of Shanghai. Since March 2004, 17 pavilions have risen there, all set on a 44-acre riverfront park. ''So many young architects want to come to China and want the experience of building here,'' explains the Chinese artist Ai Wei Wei, who curated the project with local officials and the Swiss architects Herzog & de Meuron. The designers that Wei and the others handpicked include the emerging stars Yung Ho Chang and two based in Mexico City, Fernando Romero and Tatiana Bilbao. The experimental pavilions include a children's playhouse (a Swiss-cheese-like concrete structure), a teahouse (a seemingly Brasilia-influenced bow tie that bridges a small creek) and a reading space (a tall, red-brick, puzzle-like structure by Herzog & de Meuron, below)..   ANDREW YAN",
+    "pub_date": "2005-10-09T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/09/magazine/the-remix-art-park.html",
+    "section": "Magazine"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Art Park",
+    "snippet": "Young architects make their mark in China.",
+    "pub_date": "2005-10-09T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/09/style/tmagazine/art-park-2005100991213600938.html",
+    "section": "Archives"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Art Park",
+    "snippet": "Young architects make their mark in China.",
+    "pub_date": "2005-10-09T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/09/style/tmagazine/art-park.html",
+    "section": "Archives"
   }
 ]
