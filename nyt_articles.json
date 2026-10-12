@@ -1,10 +1,18 @@
 [
   {
+    "historical_year": 2015,
+    "headline": "Theater Listings for Oct. 9-15",
+    "snippet": "A critical guide to productions in New York City, including shows in previews.",
+    "pub_date": "2015-10-12T17:13:41Z",
+    "url": "https://www.nytimes.com/2015/10/09/theater/theater-listings-for-oct-9-15.html",
+    "section": "Theater"
+  },
+  {
     "historical_year": 2010,
-    "headline": "Body Sensing Comes to Smartphones",
-    "snippet": "A maker of body-monitoring devices, BodyMedia, is turning the smartphone into a dashboard for the body.",
-    "pub_date": "2010-10-11T12:18:34Z",
-    "url": "https://bits.blogs.nytimes.com/2010/10/11/body-sensing-comes-to-smartphones/",
-    "section": "Technology"
+    "headline": "M.I.T.’s Makeover for the 21st Century",
+    "snippet": "A 10-year plan costing $1.4 billion has transformed the area with 10 buildings by architects like Frank Gehry, Steven Holl and Fumihiko Maki.",
+    "pub_date": "2010-10-12T23:29:47Z",
+    "url": "https://www.nytimes.com/2010/10/13/realestate/commercial/13mit.html",
+    "section": "Real Estate"
   }
 ]
