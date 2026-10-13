@@ -1,18 +1,26 @@
 [
   {
-    "historical_year": 2015,
-    "headline": "Theater Listings for Oct. 9-15",
-    "snippet": "A critical guide to productions in New York City, including shows in previews.",
-    "pub_date": "2015-10-12T17:13:41Z",
-    "url": "https://www.nytimes.com/2015/10/09/theater/theater-listings-for-oct-9-15.html",
-    "section": "Theater"
+    "historical_year": 2020,
+    "headline": "She Was Going Into Labor. But She Had a Bar Exam to Finish.",
+    "snippet": "Brianna Hill, who gave birth to a baby boy between sections of the exam, has earned kudos for determination. But some law school graduates say her story points to flaws with the testing system amid the pandemic.",
+    "pub_date": "2020-10-13T09:30:06Z",
+    "url": "https://www.nytimes.com/2020/10/13/us/bar-exam-labor.html",
+    "section": "U.S."
   },
   {
-    "historical_year": 2010,
-    "headline": "M.I.T.’s Makeover for the 21st Century",
-    "snippet": "A 10-year plan costing $1.4 billion has transformed the area with 10 buildings by architects like Frank Gehry, Steven Holl and Fumihiko Maki.",
-    "pub_date": "2010-10-12T23:29:47Z",
-    "url": "https://www.nytimes.com/2010/10/13/realestate/commercial/13mit.html",
-    "section": "Real Estate"
+    "historical_year": 2020,
+    "headline": "Google Employees Are Free to Speak Up. Except on Antitrust.",
+    "snippet": "A company operating in the shadow of government regulators has some very particular rules about what workers can say about it.",
+    "pub_date": "2020-10-13T17:13:05Z",
+    "url": "https://www.nytimes.com/2020/10/13/technology/google-employees-antitrust.html",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "AI reemerges from a funding desert",
+    "snippet": "",
+    "pub_date": "2005-10-13T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/13/business/worldbusiness/ai-reemerges-from-a-funding-desert.html",
+    "section": "Business"
   }
 ]
