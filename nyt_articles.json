@@ -1,50 +1,42 @@
 [
   {
     "historical_year": 2020,
-    "headline": "The Untold Technological Revolution Sweeping Through Rural China",
-    "snippet": "In “Blockchain Chicken Farm,” Xiaowei Wang documents how technology is transforming the lives of China’s rural poor.",
-    "pub_date": "2020-10-15T09:00:06Z",
-    "url": "https://www.nytimes.com/2020/10/15/books/review/blockchain-chicken-farm-xiaowei-wang.html",
-    "section": "Books"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "The 25 Most Influential Works of American Protest Art Since World War II",
-    "snippet": "Three artists, a curator and a writer came together to discuss the pieces that have not only best reflected the era, but have made an impact.",
-    "pub_date": "2020-10-15T09:00:53Z",
-    "url": "https://www.nytimes.com/2020/10/15/t-magazine/most-influential-protest-art.html",
-    "section": "T Magazine"
+    "headline": "Will New York Go for Another Wall Streeter as Mayor?",
+    "snippet": "Ray McGuire is stepping down from Citigroup to join the crowded race for Gracie Mansion.",
+    "pub_date": "2020-10-16T11:37:38Z",
+    "url": "https://www.nytimes.com/2020/10/16/business/dealbook/ray-mcguire-mayor-wall-street.html",
+    "section": "Business"
   },
   {
     "historical_year": 2015,
-    "headline": "Blaufränkisch, an Austrian Red Just Waiting to Be Discovered",
-    "snippet": "The panel tastes 20 bottles of Austrian blaufränkisch from the vintages 2010 through 2013. Six of the top 10 were $20 or under.",
-    "pub_date": "2015-10-15T14:46:17Z",
-    "url": "https://www.nytimes.com/2015/10/21/dining/wine-review-blaufrankisch.html",
-    "section": "Food"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Theater Listings for Oct. 16-22",
-    "snippet": "A critical guide to productions in New York City, including shows in previews.",
-    "pub_date": "2015-10-15T21:40:19Z",
-    "url": "https://www.nytimes.com/2015/10/16/theater/theater-listings-for-oct-16-22.html",
-    "section": "Theater"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "Tate Modern Closes Access to ‘Sunflower Seeds’",
-    "snippet": "The movement of the crowds  released a  “greater than expected level” of ceramic dust, according to a statement  released by the Tate.",
-    "pub_date": "2010-10-15T17:07:28Z",
-    "url": "https://artsbeat.blogs.nytimes.com/2010/10/15/tate-modern-closes-access-to-sunflower-seeds-installation/",
+    "headline": "William Forsythe, Keeping the Brain Engaged",
+    "snippet": "An exhibition in Frankfurt tracks the choreographer’s other art: the installation.",
+    "pub_date": "2015-10-16T10:04:49Z",
+    "url": "https://www.nytimes.com/2015/10/17/arts/international/william-forsythe-keeping-the-brain-engaged.html",
     "section": "Arts"
   },
   {
-    "historical_year": 2000,
-    "headline": "'Half Lenin, Half Gandhi'",
-    "snippet": "Frances FitzGerald reviews book Ho Chi Minh by William J Duiker; photo (M)",
-    "pub_date": "2000-10-15T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/10/15/books/half-lenin-half-gandhi.html",
-    "section": "Books"
+    "historical_year": 2010,
+    "headline": "Numbers Are a Weak Spot in the B.C.S. Standings",
+    "snippet": "The dubious mathematics employed by the Bowl Championship Series has prodded some statisticians to criticize it.",
+    "pub_date": "2010-10-16T15:41:38Z",
+    "url": "https://www.nytimes.com/2010/10/17/sports/ncaafootball/17score.html",
+    "section": "Sports"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Meet the Life Hackers",
+    "snippet": "In 2000, Gloria Mark was hired as a professor at the University of California at Irvine. Until then, she was working as a researcher, living a life of comparative peace. She would spend her days in her lab, enjoying the sense of serene focus that comes from immersing yourself for hours at a time in a single project. But when her faculty job began, that all ended. Mark would arrive at her desk in the morning, full of energy and ready to tackle her to-do list -- only to suffer an endless stream of interruptions. No sooner had she started one task than a colleague would e-mail her with an urgent request; when she went to work on that, the phone would ring. At the end of the day, she had been so constantly distracted that she would have accomplished only a fraction of what she set out to do. ''Madness,'' she thought. ''I'm trying to do 30 things at once.''  ",
+    "pub_date": "2005-10-16T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/16/magazine/meet-the-life-hackers.html",
+    "section": "Magazine"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "When Mr. Blackwell Meets Mr. Shaqwell",
+    "snippet": "Commissioner David Stern said recently that he would like a new N.B.A. dress code, one requiring players to wear sportcoats, collared shirts and possibly no blue jeans at team functions and on road trips. Enforcement will not be easy, unless he enlists Shaquille O'Neal in his campaign to rid the league of players who wear sloppy, jockish or otherwise unbusinesslike attire when out of uniform and in the public eye.      Stern will do his part by fining any player who frightens small children and offends red-state sensibilities by donning a throwback jersey, blue jeans, sneakers or, God forbid, a do-rag. O'Neal, via his Mr. Shaqwell persona, can turn dress-code violators into laughingstocks with witty put-downs in the tradition of Mr. Blackwell, the Hollywood designer known for his list of the 10 worst-dressed women.  ",
+    "pub_date": "2005-10-16T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/10/16/sports/when-mr-blackwell-meets-mr-shaqwell.html",
+    "section": "Sports"
   }
 ]
