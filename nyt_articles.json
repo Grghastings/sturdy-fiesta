@@ -1,42 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Remote but Inclusive for Years, and Now Showing Other Companies How",
-    "snippet": "Ultranauts has been developing creative ways to hire, manage and motivate a far-flung and diverse work force for seven years.",
-    "pub_date": "2020-10-18T19:36:55Z",
-    "url": "https://www.nytimes.com/2020/10/18/technology/ultranauts-remote-work.html",
-    "section": "Technology"
+    "headline": "The Improbable, Slightly Surreal Plan to Save Fashion’s Printed Matter",
+    "snippet": "The new International Library for Fashion Research in Oslo, the brainchild of a fashion odd couple, has very big ambitions.",
+    "pub_date": "2020-10-19T09:00:23Z",
+    "url": "https://www.nytimes.com/2020/10/19/style/fashion-International-Library-of-Fashion-Research-elise-by-olsen.html",
+    "section": "Style"
   },
   {
     "historical_year": 2020,
-    "headline": "China Threatens to Detain Americans if U.S. Prosecutes Chinese Scholars",
-    "snippet": "American officials said China had insisted that the Justice Department not proceed with cases against the arrested scholars, who are in the Chinese military and face charges of visa fraud.",
-    "pub_date": "2020-10-18T22:56:19Z",
-    "url": "https://www.nytimes.com/2020/10/18/us/politics/china-us-threats-detain.html",
-    "section": "U.S."
+    "headline": "Sigourney Weaver Goes Her Own Way",
+    "snippet": "In performances both profound and eccentric — and in films that span several genres — the statuesque actress reveals she is a woman who defies definition and embraces adventure.",
+    "pub_date": "2020-10-19T09:10:31Z",
+    "url": "https://www.nytimes.com/interactive/2020/10/19/t-magazine/sigourney-weaver.html",
+    "section": "T Magazine"
   },
   {
     "historical_year": 2015,
-    "headline": "Brooke Fraser, Casey Drummond",
-    "snippet": "The bride works for “NBC Nightly News” and the groom for IBM.",
-    "pub_date": "2015-10-18T04:15:06Z",
-    "url": "https://www.nytimes.com/2015/10/18/fashion/weddings/brooke-fraser-casey-drummond.html",
-    "section": "Fashion"
+    "headline": "Edward Frenkel: The Age of a Child",
+    "snippet": "Celebrate the 101st birthday of recreational mathematician Martin Gardner with two puzzles from the best-selling author Edward Frenkel.",
+    "pub_date": "2015-10-19T16:00:56Z",
+    "url": "https://wordplay.blogs.nytimes.com/2015/10/19/frenkel-age-of-a-child/",
+    "section": "Gameplay"
   },
   {
-    "historical_year": 2010,
-    "headline": "At Tate Modern, Seeds of Discontent by the Ton",
-    "snippet": "Health concerns have changed a London installation from interactive to “Look but don’t touch.”",
-    "pub_date": "2010-10-18T21:39:13Z",
-    "url": "https://www.nytimes.com/2010/10/19/arts/design/19sunflower.html",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "Artifacts | Fair Trade-Off: Frieze Week in London",
-    "snippet": "There were many reasons to like being there this year, but what stood out in my mind were two exhibitions I saw outside the fair: Klara Liden at the Serpentine Gallery and Christian Marclay at White Cube in Mayfair.",
-    "pub_date": "2010-10-18T21:47:53Z",
-    "url": "https://tmagazine.blogs.nytimes.com/2010/10/18/artifacts-fair-trade-off-frieze-week-in-london/",
-    "section": "T Magazine"
+    "historical_year": 2015,
+    "headline": "IBM Sales and Profit Dropped 14% in Third Quarter",
+    "snippet": "Analysts say IBM is struggling to offset the erosion of some of its traditional hardware, software and services businesses.",
+    "pub_date": "2015-10-19T21:01:36Z",
+    "url": "https://www.nytimes.com/2015/10/20/technology/ibm-q3-earnings.html",
+    "section": "Technology"
   }
 ]
