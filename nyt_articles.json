@@ -1,34 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "The Improbable, Slightly Surreal Plan to Save Fashion’s Printed Matter",
-    "snippet": "The new International Library for Fashion Research in Oslo, the brainchild of a fashion odd couple, has very big ambitions.",
-    "pub_date": "2020-10-19T09:00:23Z",
-    "url": "https://www.nytimes.com/2020/10/19/style/fashion-International-Library-of-Fashion-Research-elise-by-olsen.html",
-    "section": "Style"
+    "headline": "After the Pandemic, a Revolution in Education and Work Awaits",
+    "snippet": "Providing more Americans with portable health care, portable pensions and opportunities for lifelong learning is what politics needs to be about post-Nov. 3.",
+    "pub_date": "2020-10-20T23:58:43Z",
+    "url": "https://www.nytimes.com/2020/10/20/opinion/covid-education-work.html",
+    "section": "Opinion"
   },
   {
     "historical_year": 2020,
-    "headline": "Sigourney Weaver Goes Her Own Way",
-    "snippet": "In performances both profound and eccentric — and in films that span several genres — the statuesque actress reveals she is a woman who defies definition and embraces adventure.",
-    "pub_date": "2020-10-19T09:10:31Z",
-    "url": "https://www.nytimes.com/interactive/2020/10/19/t-magazine/sigourney-weaver.html",
-    "section": "T Magazine"
+    "headline": "Review: A Satire of Social Media That Aims at Too Many Targets",
+    "snippet": "Michael Breslin and Patrick Foley’s virtual play includes a YouTuber, an influencer and a meme machine. Sometimes total chaos ensues.",
+    "pub_date": "2020-10-20T19:28:49Z",
+    "url": "https://www.nytimes.com/2020/10/20/theater/circle-jerk-review.html",
+    "section": "Theater"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "It’s Google’s World. We Just Live in It.",
+    "snippet": "Googling something was all we once did with Google. Now we spend hours a day using its maps, videos, security cameras, email, smartphones and more.",
+    "pub_date": "2020-10-20T14:42:32Z",
+    "url": "https://www.nytimes.com/2020/10/20/technology/doj-google.html",
+    "section": "Technology"
   },
   {
     "historical_year": 2015,
-    "headline": "Edward Frenkel: The Age of a Child",
-    "snippet": "Celebrate the 101st birthday of recreational mathematician Martin Gardner with two puzzles from the best-selling author Edward Frenkel.",
-    "pub_date": "2015-10-19T16:00:56Z",
-    "url": "https://wordplay.blogs.nytimes.com/2015/10/19/frenkel-age-of-a-child/",
-    "section": "Gameplay"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "IBM Sales and Profit Dropped 14% in Third Quarter",
-    "snippet": "Analysts say IBM is struggling to offset the erosion of some of its traditional hardware, software and services businesses.",
-    "pub_date": "2015-10-19T21:01:36Z",
-    "url": "https://www.nytimes.com/2015/10/20/technology/ibm-q3-earnings.html",
+    "headline": "Daily Report: IBM and Yahoo in the Hot Seats",
+    "snippet": "IBM and Yahoo are in the hot seat this week as both companies seek to rev up their growth. IBM, which reported results on Monday, posted falling sales. Next up is Yahoo.",
+    "pub_date": "2015-10-20T13:26:52Z",
+    "url": "https://bits.blogs.nytimes.com/2015/10/20/daily-report-ibm-and-yahoo-in-the-hot-seats/",
     "section": "Technology"
   }
 ]
