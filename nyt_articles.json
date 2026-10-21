@@ -1,34 +1,42 @@
 [
   {
     "historical_year": 2020,
-    "headline": "After the Pandemic, a Revolution in Education and Work Awaits",
-    "snippet": "Providing more Americans with portable health care, portable pensions and opportunities for lifelong learning is what politics needs to be about post-Nov. 3.",
-    "pub_date": "2020-10-20T23:58:43Z",
-    "url": "https://www.nytimes.com/2020/10/20/opinion/covid-education-work.html",
-    "section": "Opinion"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Review: A Satire of Social Media That Aims at Too Many Targets",
-    "snippet": "Michael Breslin and Patrick Foley’s virtual play includes a YouTuber, an influencer and a meme machine. Sometimes total chaos ensues.",
-    "pub_date": "2020-10-20T19:28:49Z",
-    "url": "https://www.nytimes.com/2020/10/20/theater/circle-jerk-review.html",
-    "section": "Theater"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "It’s Google’s World. We Just Live in It.",
-    "snippet": "Googling something was all we once did with Google. Now we spend hours a day using its maps, videos, security cameras, email, smartphones and more.",
-    "pub_date": "2020-10-20T14:42:32Z",
-    "url": "https://www.nytimes.com/2020/10/20/technology/doj-google.html",
+    "headline": "Activists Turn Facial Recognition Tools Against the Police",
+    "snippet": "“We’re now approaching the technological threshold where the little guys can do it to the big guys,” one researcher said.",
+    "pub_date": "2020-10-21T13:58:37Z",
+    "url": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
     "section": "Technology"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Lesson of the Day: ‘Seeing Our Own Reflection in the Birth of the Self-Portrait’",
+    "snippet": "In this lesson, students will learn about Albrecht Dürer’s masterpiece and the development of the self as a unique individual, worthy of depiction. Then students will create self-portraits and consider what it reveals about who they really are.",
+    "pub_date": "2020-10-21T08:00:02Z",
+    "url": "https://www.nytimes.com/2020/10/21/learning/lesson-of-the-day-seeing-our-own-reflection-in-the-birth-of-the-self-portrait.html",
+    "section": "The Learning Network"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Big Tech’s Professional Opponents Strike at Google",
+    "snippet": "An unlikely collection of lawyers, activists, economists and academics is fueling the tech backlash, armed with funding from billionaire sponsors.",
+    "pub_date": "2020-10-21T19:21:57Z",
+    "url": "https://www.nytimes.com/2020/10/21/technology/big-tech-professional-opponents.html",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Does Palantir See Too Much?",
+    "snippet": "The tech giant helps governments and law enforcement decipher vast amounts of data — to mysterious and, some say, dangerous ends.",
+    "pub_date": "2020-10-21T12:45:11Z",
+    "url": "https://www.nytimes.com/interactive/2020/10/21/magazine/palantir-alex-karp.html",
+    "section": "Magazine"
   },
   {
     "historical_year": 2015,
-    "headline": "Daily Report: IBM and Yahoo in the Hot Seats",
-    "snippet": "IBM and Yahoo are in the hot seat this week as both companies seek to rev up their growth. IBM, which reported results on Monday, posted falling sales. Next up is Yahoo.",
-    "pub_date": "2015-10-20T13:26:52Z",
-    "url": "https://bits.blogs.nytimes.com/2015/10/20/daily-report-ibm-and-yahoo-in-the-hot-seats/",
-    "section": "Technology"
+    "headline": "Review: ‘Futurity,’ in a Civil War Setting, Wishes for Today’s Technology",
+    "snippet": "This odd and often beguiling show written by César Alvarez with his band the Lisps is a show made for brainiacs.",
+    "pub_date": "2015-10-21T02:00:06Z",
+    "url": "https://www.nytimes.com/2015/10/21/theater/review-futurity-in-a-civil-war-setting-wishes-for-todays-technology.html",
+    "section": "Theater"
   }
 ]
