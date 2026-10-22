@@ -1,42 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Activists Turn Facial Recognition Tools Against the Police",
-    "snippet": "“We’re now approaching the technological threshold where the little guys can do it to the big guys,” one researcher said.",
-    "pub_date": "2020-10-21T13:58:37Z",
-    "url": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Lesson of the Day: ‘Seeing Our Own Reflection in the Birth of the Self-Portrait’",
-    "snippet": "In this lesson, students will learn about Albrecht Dürer’s masterpiece and the development of the self as a unique individual, worthy of depiction. Then students will create self-portraits and consider what it reveals about who they really are.",
-    "pub_date": "2020-10-21T08:00:02Z",
-    "url": "https://www.nytimes.com/2020/10/21/learning/lesson-of-the-day-seeing-our-own-reflection-in-the-birth-of-the-self-portrait.html",
-    "section": "The Learning Network"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Big Tech’s Professional Opponents Strike at Google",
-    "snippet": "An unlikely collection of lawyers, activists, economists and academics is fueling the tech backlash, armed with funding from billionaire sponsors.",
-    "pub_date": "2020-10-21T19:21:57Z",
-    "url": "https://www.nytimes.com/2020/10/21/technology/big-tech-professional-opponents.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Does Palantir See Too Much?",
-    "snippet": "The tech giant helps governments and law enforcement decipher vast amounts of data — to mysterious and, some say, dangerous ends.",
-    "pub_date": "2020-10-21T12:45:11Z",
-    "url": "https://www.nytimes.com/interactive/2020/10/21/magazine/palantir-alex-karp.html",
-    "section": "Magazine"
+    "headline": "Google, You Can’t Buy Your Way Out of This",
+    "snippet": "The Justice Department is demanding that the company prove its greatness by competing in the market, not by buying its way out of it.",
+    "pub_date": "2020-10-22T09:00:11Z",
+    "url": "https://www.nytimes.com/2020/10/22/opinion/google-lawsuit-antitrust.html",
+    "section": "Opinion"
   },
   {
     "historical_year": 2015,
-    "headline": "Review: ‘Futurity,’ in a Civil War Setting, Wishes for Today’s Technology",
-    "snippet": "This odd and often beguiling show written by César Alvarez with his band the Lisps is a show made for brainiacs.",
-    "pub_date": "2015-10-21T02:00:06Z",
-    "url": "https://www.nytimes.com/2015/10/21/theater/review-futurity-in-a-civil-war-setting-wishes-for-todays-technology.html",
-    "section": "Theater"
+    "headline": "Xi’s Visit to Britain Highlights Broader Shift in Concerns About China",
+    "snippet": "The visit underscores how European nations are de-emphasizing unease about human rights and security as they compete to benefit from China’s growing economic might.",
+    "pub_date": "2015-10-22T13:23:16Z",
+    "url": "https://www.nytimes.com/2015/10/23/world/europe/xis-visit-to-britain-highlights-broader-shift-in-concerns-about-china.html",
+    "section": "World"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Exploring the Darker Sides of Ceramics",
+    "snippet": "A show in the Netherlands, \"Ceramix,\" spans 100 years and 270 works of ceramic art, from the conservative to the radical.",
+    "pub_date": "2015-10-22T13:21:00Z",
+    "url": "https://www.nytimes.com/2015/10/22/arts/international/exploring-the-darker-sides-of-ceramics.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "At FIAC, a Museum Cruise Along the Seine",
+    "snippet": "The river offers FIAC, the annual Paris contemporary art fair, a strong central theme that is both obvious and often overlooked.",
+    "pub_date": "2015-10-22T09:38:48Z",
+    "url": "https://www.nytimes.com/2015/10/22/arts/international/at-fiac-a-museum-cruise-along-the-seine.html",
+    "section": "Arts"
   }
 ]
