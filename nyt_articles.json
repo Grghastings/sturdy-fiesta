@@ -1,34 +1,18 @@
 [
   {
-    "historical_year": 2020,
-    "headline": "Google, You Can’t Buy Your Way Out of This",
-    "snippet": "The Justice Department is demanding that the company prove its greatness by competing in the market, not by buying its way out of it.",
-    "pub_date": "2020-10-22T09:00:11Z",
-    "url": "https://www.nytimes.com/2020/10/22/opinion/google-lawsuit-antitrust.html",
-    "section": "Opinion"
-  },
-  {
     "historical_year": 2015,
-    "headline": "Xi’s Visit to Britain Highlights Broader Shift in Concerns About China",
-    "snippet": "The visit underscores how European nations are de-emphasizing unease about human rights and security as they compete to benefit from China’s growing economic might.",
-    "pub_date": "2015-10-22T13:23:16Z",
-    "url": "https://www.nytimes.com/2015/10/23/world/europe/xis-visit-to-britain-highlights-broader-shift-in-concerns-about-china.html",
-    "section": "World"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Exploring the Darker Sides of Ceramics",
-    "snippet": "A show in the Netherlands, \"Ceramix,\" spans 100 years and 270 works of ceramic art, from the conservative to the radical.",
-    "pub_date": "2015-10-22T13:21:00Z",
-    "url": "https://www.nytimes.com/2015/10/22/arts/international/exploring-the-darker-sides-of-ceramics.html",
+    "headline": "What’s on This Week Around the World",
+    "snippet": "A dance festival opens in Rio de Janeiro; a classic opera doublebill plays in Santiago, Chile; and an exhibition in Frankfurt focuses on womens’ contributions to Expressionist art.",
+    "pub_date": "2015-10-23T12:39:20Z",
+    "url": "https://artsbeat.blogs.nytimes.com/2015/10/23/whats-on-this-week-around-the-world-47/",
     "section": "Arts"
   },
   {
-    "historical_year": 2015,
-    "headline": "At FIAC, a Museum Cruise Along the Seine",
-    "snippet": "The river offers FIAC, the annual Paris contemporary art fair, a strong central theme that is both obvious and often overlooked.",
-    "pub_date": "2015-10-22T09:38:48Z",
-    "url": "https://www.nytimes.com/2015/10/22/arts/international/at-fiac-a-museum-cruise-along-the-seine.html",
-    "section": "Arts"
+    "historical_year": 2010,
+    "headline": "With Kinect, Microsoft Aims for a Game Changer",
+    "snippet": "The Kinect lets players control games with their bodies and speech. Will it be the hit product Microsoft wants?",
+    "pub_date": "2010-10-23T21:28:18Z",
+    "url": "https://www.nytimes.com/2010/10/24/business/24kinect.html",
+    "section": "Business"
   }
 ]
