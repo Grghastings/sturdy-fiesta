@@ -1,18 +1,10 @@
 [
   {
     "historical_year": 2015,
-    "headline": "What’s on This Week Around the World",
-    "snippet": "A dance festival opens in Rio de Janeiro; a classic opera doublebill plays in Santiago, Chile; and an exhibition in Frankfurt focuses on womens’ contributions to Expressionist art.",
-    "pub_date": "2015-10-23T12:39:20Z",
-    "url": "https://artsbeat.blogs.nytimes.com/2015/10/23/whats-on-this-week-around-the-world-47/",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "With Kinect, Microsoft Aims for a Game Changer",
-    "snippet": "The Kinect lets players control games with their bodies and speech. Will it be the hit product Microsoft wants?",
-    "pub_date": "2010-10-23T21:28:18Z",
-    "url": "https://www.nytimes.com/2010/10/24/business/24kinect.html",
-    "section": "Business"
+    "headline": "Don’t Fear the Robots",
+    "snippet": "Attention is better directed toward the promise and peril of artificial intelligence software.",
+    "pub_date": "2015-10-24T18:30:07Z",
+    "url": "https://www.nytimes.com/2015/10/25/sunday-review/dont-fear-the-robots.html",
+    "section": "Sunday Review"
   }
 ]
