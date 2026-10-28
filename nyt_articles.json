@@ -1,10 +1,66 @@
 [
   {
-    "historical_year": 2015,
-    "headline": "IBM Discloses S.E.C. Investigation",
-    "snippet": "The computing giant disclosed in a regulatory filing that accounting practices in three countries are under scrutiny.",
-    "pub_date": "2015-10-27T20:12:50Z",
-    "url": "https://bits.blogs.nytimes.com/2015/10/27/ibm-discloses-s-e-c-investigation/",
+    "historical_year": 2020,
+    "headline": "The Future According to Grimes",
+    "snippet": "The artist says her baby, X Æ A-XII, stays up watching “radical art.” So she made him an A.I. lullaby.",
+    "pub_date": "2020-10-28T09:00:15Z",
+    "url": "https://www.nytimes.com/2020/10/28/style/self-care/grimes-AI-baby-sleep.html",
+    "section": "Style"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Pregnant Woman Is Strangled as N.Y.C. Has 3 Domestic Violence Killings in Days",
+    "snippet": "The body of Vanessa Pierre, 29, was found on the side of a Queens highway. Her boyfriend has been charged with murder.",
+    "pub_date": "2020-10-28T02:05:32Z",
+    "url": "https://www.nytimes.com/2020/10/27/nyregion/queens-murder-man-pregnant-woman.html",
+    "section": "New York"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "To Do Politics or Not Do Politics? Tech Start-Ups Are Divided",
+    "snippet": "Coinbase, Expensify, Soylent, Clubhouse and others are embroiled in a culture war over politics and the workplace.",
+    "pub_date": "2020-10-28T09:00:23Z",
+    "url": "https://www.nytimes.com/2020/10/28/technology/politics-tech-start-ups-culture-war.html",
     "section": "Technology"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "The San Francisco Symphony Plunges Into a New World",
+    "snippet": "The virtual premiere of Nico Muhly’s “Throughline,” Esa-Pekka Salonen’s first presentation as music director, tests the limits of pandemic music-making.",
+    "pub_date": "2020-10-28T14:00:11Z",
+    "url": "https://www.nytimes.com/2020/10/28/arts/music/san-francisco-symphony-nico-muhly.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Chinese-Themed Exhibitions Seek a Broader Audience",
+    "snippet": "The number and wide dispersal of such shows in the United States reflect that Westerners, and not necessarily Chinese, are the intended patrons.",
+    "pub_date": "2015-10-28T20:09:56Z",
+    "url": "https://www.nytimes.com/2015/11/01/arts/design/chinese-themed-exhibitions-seek-a-broader-audience.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "IBM to Acquire the Weather Company",
+    "snippet": "The company said it had entered into an agreement to acquire most of the assets of the Weather Company, and its data could be combined with IBM’s Watson.",
+    "pub_date": "2015-10-28T15:49:04Z",
+    "url": "https://www.nytimes.com/2015/10/29/technology/ibm-to-acquire-the-weather-company.html",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Corrections: October 28, 2015",
+    "snippet": "Corrections appearing in print on October 28, 2015",
+    "pub_date": "2015-10-28T06:13:36Z",
+    "url": "https://www.nytimes.com/2015/10/28/pageoneplus/corrections-october-28-2015.html",
+    "section": "Corrections"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Your Wednesday Evening Briefing: Republican Debate, World Series, Dennis Hastert",
+    "snippet": "Here’s what you need to know at the end of the day.",
+    "pub_date": "2015-10-28T22:06:01Z",
+    "url": "https://www.nytimes.com/2015/10/28/nytnow/your-wednesday-evening-briefing-republican-debate-world-series-dennis-hastert.html",
+    "section": "NYT Now"
   }
 ]
