@@ -1,66 +1,42 @@
 [
   {
     "historical_year": 2020,
-    "headline": "The Future According to Grimes",
-    "snippet": "The artist says her baby, X Æ A-XII, stays up watching “radical art.” So she made him an A.I. lullaby.",
-    "pub_date": "2020-10-28T09:00:15Z",
-    "url": "https://www.nytimes.com/2020/10/28/style/self-care/grimes-AI-baby-sleep.html",
+    "headline": "Why Celebrities Are Wearing Hot Pink Suits",
+    "snippet": "There’s a new political fashion statement in town, just in time for the election. Should you wear it?",
+    "pub_date": "2020-10-29T09:00:27Z",
+    "url": "https://www.nytimes.com/2020/10/29/style/argent-hot-pink-suit-ambition-vote.html",
     "section": "Style"
   },
   {
     "historical_year": 2020,
-    "headline": "Pregnant Woman Is Strangled as N.Y.C. Has 3 Domestic Violence Killings in Days",
-    "snippet": "The body of Vanessa Pierre, 29, was found on the side of a Queens highway. Her boyfriend has been charged with murder.",
-    "pub_date": "2020-10-28T02:05:32Z",
-    "url": "https://www.nytimes.com/2020/10/27/nyregion/queens-murder-man-pregnant-woman.html",
+    "headline": "In This Strange Election Year, Foreign Embassies Find Little Access to Democrats",
+    "snippet": "The Biden campaign is concerned over possible perception of foreign meddling in the election — or any comparison to Russian interference in 2016.",
+    "pub_date": "2020-10-29T15:18:24Z",
+    "url": "https://www.nytimes.com/2020/10/29/us/politics/presidential-election-biden-embassies.html",
+    "section": "U.S."
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Coronavirus Briefing: What Happened Today",
+    "snippet": "Survival rates among Covid-19 patients are improving.",
+    "pub_date": "2020-10-29T22:27:44Z",
+    "url": "https://www.nytimes.com/2020/10/29/us/coronavirus-today.html",
+    "section": "U.S."
+  },
+  {
+    "historical_year": 2020,
+    "headline": "How to Staycation in 6 American Cities",
+    "snippet": "City hotels and tourist organizations have made a full-court press to attract local and nearby leisure travelers with bottom-barrel rates and extra perks.",
+    "pub_date": "2020-10-29T09:00:28Z",
+    "url": "https://www.nytimes.com/2020/10/29/travel/staycation-nyc-los-angeles.html",
+    "section": "Travel"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "New York Today: In Hurricane Sandy’s Wake",
+    "snippet": "Thursday: Progress since the storm, nicer weather, and Day of the Dead.",
+    "pub_date": "2015-10-29T10:03:31Z",
+    "url": "https://www.nytimes.com/2015/10/29/nyregion/new-york-today-in-hurricane-sandys-wake.html",
     "section": "New York"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "To Do Politics or Not Do Politics? Tech Start-Ups Are Divided",
-    "snippet": "Coinbase, Expensify, Soylent, Clubhouse and others are embroiled in a culture war over politics and the workplace.",
-    "pub_date": "2020-10-28T09:00:23Z",
-    "url": "https://www.nytimes.com/2020/10/28/technology/politics-tech-start-ups-culture-war.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "The San Francisco Symphony Plunges Into a New World",
-    "snippet": "The virtual premiere of Nico Muhly’s “Throughline,” Esa-Pekka Salonen’s first presentation as music director, tests the limits of pandemic music-making.",
-    "pub_date": "2020-10-28T14:00:11Z",
-    "url": "https://www.nytimes.com/2020/10/28/arts/music/san-francisco-symphony-nico-muhly.html",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Chinese-Themed Exhibitions Seek a Broader Audience",
-    "snippet": "The number and wide dispersal of such shows in the United States reflect that Westerners, and not necessarily Chinese, are the intended patrons.",
-    "pub_date": "2015-10-28T20:09:56Z",
-    "url": "https://www.nytimes.com/2015/11/01/arts/design/chinese-themed-exhibitions-seek-a-broader-audience.html",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "IBM to Acquire the Weather Company",
-    "snippet": "The company said it had entered into an agreement to acquire most of the assets of the Weather Company, and its data could be combined with IBM’s Watson.",
-    "pub_date": "2015-10-28T15:49:04Z",
-    "url": "https://www.nytimes.com/2015/10/29/technology/ibm-to-acquire-the-weather-company.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Corrections: October 28, 2015",
-    "snippet": "Corrections appearing in print on October 28, 2015",
-    "pub_date": "2015-10-28T06:13:36Z",
-    "url": "https://www.nytimes.com/2015/10/28/pageoneplus/corrections-october-28-2015.html",
-    "section": "Corrections"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Your Wednesday Evening Briefing: Republican Debate, World Series, Dennis Hastert",
-    "snippet": "Here’s what you need to know at the end of the day.",
-    "pub_date": "2015-10-28T22:06:01Z",
-    "url": "https://www.nytimes.com/2015/10/28/nytnow/your-wednesday-evening-briefing-republican-debate-world-series-dennis-hastert.html",
-    "section": "NYT Now"
   }
 ]
