@@ -1,10 +1,18 @@
 [
   {
-    "historical_year": 2020,
-    "headline": "Tap LinkedIn for Career Opportunities",
-    "snippet": "Whether you’re looking for a new role or just trying to expand your professional network, here’s how to use the website’s services to your full advantage.",
-    "pub_date": "2020-11-01T02:23:07Z",
-    "url": "https://www.nytimes.com/2020/10/31/at-home/linkedin-career-opportunities.html",
-    "section": "At Home"
+    "historical_year": 2015,
+    "headline": "Skype Founders Build a Robot for Suburban Streets",
+    "snippet": "The entrepreneurs Ahti Heinla and Janus Friis are behind a Starship Technologies bot designed to make home deliveries.",
+    "pub_date": "2015-11-02T21:14:31Z",
+    "url": "https://www.nytimes.com/2015/11/03/science/skype-founders-build-a-robot-for-suburban-streets.html",
+    "section": "Science"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Paul Allen’s Philanthropy Mirrors His Passions and Business Approach",
+    "snippet": "Like many of his ultrarich peers in tech, Mr. Allen, the Microsoft co-founder, has allocated much of his giving to efforts seeking big breakthroughs that will transform society.",
+    "pub_date": "2015-11-02T20:28:11Z",
+    "url": "https://www.nytimes.com/2015/11/08/giving/paul-allens-philanthropy-mirrors-his-passions-and-business-approach.html",
+    "section": "Giving"
   }
 ]
