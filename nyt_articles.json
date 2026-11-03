@@ -1,18 +1,42 @@
 [
   {
-    "historical_year": 2015,
-    "headline": "Skype Founders Build a Robot for Suburban Streets",
-    "snippet": "The entrepreneurs Ahti Heinla and Janus Friis are behind a Starship Technologies bot designed to make home deliveries.",
-    "pub_date": "2015-11-02T21:14:31Z",
-    "url": "https://www.nytimes.com/2015/11/03/science/skype-founders-build-a-robot-for-suburban-streets.html",
-    "section": "Science"
+    "historical_year": 2020,
+    "headline": "Tell Your Watch to Hold That Pose",
+    "snippet": "A new app will use high-resolution photographs to authenticate timepieces.",
+    "pub_date": "2020-11-03T10:09:08Z",
+    "url": "https://www.nytimes.com/2020/11/03/fashion/watches-authentication-apps-switzerland.html",
+    "section": "Fashion"
   },
   {
     "historical_year": 2015,
-    "headline": "Paul Allen’s Philanthropy Mirrors His Passions and Business Approach",
-    "snippet": "Like many of his ultrarich peers in tech, Mr. Allen, the Microsoft co-founder, has allocated much of his giving to efforts seeking big breakthroughs that will transform society.",
-    "pub_date": "2015-11-02T20:28:11Z",
-    "url": "https://www.nytimes.com/2015/11/08/giving/paul-allens-philanthropy-mirrors-his-passions-and-business-approach.html",
-    "section": "Giving"
+    "headline": "IBM Looks to Its Next Century",
+    "snippet": "A venerable technology company is adopting a strategy that moves it into disruptive systems.",
+    "pub_date": "2015-11-03T19:58:50Z",
+    "url": "https://www.nytimes.com/2015/11/04/business/dealbook/ibm-looks-to-its-next-century.html",
+    "section": "Business"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Ai Weiwei Plans a Celebration, of Sorts, to Mark Demolition of His Studio",
+    "snippet": "Mr. Ai wrote he will hold a “River Crab Fest” at his Shanghai studio, which the Chinese government is demolishing – “river crab” being a bit of Chinese slang for censorship.",
+    "pub_date": "2010-11-03T18:01:01Z",
+    "url": "https://artsbeat.blogs.nytimes.com/2010/11/03/ai-weiwei-plans-a-celebration-of-sorts-to-mark-demolition-of-his-studio/",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Welcome to the Machines: Designing Useful Robots",
+    "snippet": "Lesson Plan | A problem-based learning activity in which students design robots to address real-world challenges.",
+    "pub_date": "2010-11-03T19:43:20Z",
+    "url": "https://learning.blogs.nytimes.com/2010/11/03/welcome-to-the-machines-designing-useful-robots/",
+    "section": "Education"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Protecting Your Home From Afar With a Robot",
+    "snippet": "Wi-Fi-equipped robots can be operated remotely to protect a home. Some can even be modified to detect fire and carry an extinguisher.",
+    "pub_date": "2010-11-03T21:09:17Z",
+    "url": "https://www.nytimes.com/2010/11/04/technology/personaltech/04basics.html",
+    "section": "Technology"
   }
 ]
