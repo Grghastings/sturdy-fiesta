@@ -1,26 +1,50 @@
 [
   {
     "historical_year": 2020,
-    "headline": "A first-time voter who fought to cast a ballot now hopes for ‘peace.’",
-    "snippet": "",
-    "pub_date": "2020-11-04T20:41:35Z",
-    "url": "https://www.nytimes.com/live/2020/11/04/us/election-results/a-first-time-voter-who-fought-to-cast-a-ballot-now-hopes-for-peace",
-    "section": "U.S."
+    "headline": "Dances With Robots, and Other Tales From the Outer Limits",
+    "snippet": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand what’s possible.",
+    "pub_date": "2020-11-05T15:00:10Z",
+    "url": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+    "section": "Arts"
   },
   {
-    "historical_year": 2015,
-    "headline": "Digital Transformation Going Mainstream in 2016, IDC Predicts",
-    "snippet": "The technology research firm IDC predicts the pace of digital transformation of business is going to accelerate and increasingly hit every industry.",
-    "pub_date": "2015-11-04T16:00:05Z",
-    "url": "https://bits.blogs.nytimes.com/2015/11/04/in-2016-digital-transformation-goes-mainstream-idc-predicts/",
+    "historical_year": 2020,
+    "headline": "After another miss, investors rethink their reliance on polls.",
+    "snippet": "",
+    "pub_date": "2020-11-05T13:47:34Z",
+    "url": "https://www.nytimes.com/live/2020/11/05/business/us-economy-coronavirus/after-another-miss-investors-rethink-their-reliance-on-polls",
+    "section": "Business"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "On Election Day, Facebook and Twitter Did Better by Making Their Products Worse",
+    "snippet": "New rules put in place by the companies over the last four years have helped them avert their greatest fears.",
+    "pub_date": "2020-11-05T21:36:10Z",
+    "url": "https://www.nytimes.com/2020/11/05/technology/facebook-twitter-election.html",
     "section": "Technology"
   },
   {
-    "historical_year": 2015,
-    "headline": "Work Force Culture Is Buffeted by Swift Changes in Technology",
-    "snippet": "Several executives at the DealBook conference detailed the growing pains of corporate culture from Silicon Valley to Wall Street.",
-    "pub_date": "2015-11-04T21:18:17Z",
-    "url": "https://www.nytimes.com/2015/11/05/business/dealbook/work-force-culture-is-buffeted-by-swift-changes-in-technology.html",
-    "section": "Business"
+    "historical_year": 2010,
+    "headline": "China Police Confine Prominent Artist",
+    "snippet": "The artist Ai Weiwei was placed under house arrest on Friday in Beijing.",
+    "pub_date": "2010-11-05T09:20:53Z",
+    "url": "https://www.nytimes.com/2010/11/06/world/asia/06china.html",
+    "section": "World"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Print Fair 2010",
+    "snippet": "The 20th incarnation of the International Fine Prints Dealers Association’s annual Print Fair is, as usual, a cornucopia of medium-specific visual culture.",
+    "pub_date": "2010-11-05T06:02:11Z",
+    "url": "https://www.nytimes.com/2010/11/05/arts/design/05galleries-copy1.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Researchers Look to Create a Synthesis of Art and Science for the 21st Century",
+    "snippet": "Article on California Institute for Telecommunications and Information Technology, or Calit2, $400 million research consortium at University of California, San Diego, assembled over last five years by astrophysicist Larry Smarr; 'collaboratory,' at university's new Atkinson Hall, is connected by fiber-optic cables to rest of campus and to smaller partner laboratory at Irvine campus as well as to research centers around world; laboratory, designed for 900 faculty and student researchers, has two separate wings, one an ultrasterile set of nanotechnology clean rooms and the other a new digital media arts center where Calit2 scientists, engineers and artists can display their projects; Smarr, in interview, says synthesis of art and science is vital in light of role he expects artists to play in designing the future; photos (M)",
+    "pub_date": "2005-11-05T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/11/05/arts/researchers-look-to-create-a-synthesis-of-art-and-science-for-the-21st.html",
+    "section": "Arts"
   }
 ]
