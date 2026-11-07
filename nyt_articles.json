@@ -1,74 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "From the Chest X-Ray, He Saw a Romantic Future",
-    "snippet": "Dr. Mary Oakley Strasser won the heart of her fellow medical student, Balaji Pandian, during a lecture in medical school.",
-    "pub_date": "2020-11-06T10:00:26Z",
-    "url": "https://www.nytimes.com/2020/11/06/style/from-the-chest-x-ray-he-saw-a-romantic-future.html",
-    "section": "Style"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "All Hail the Un-Tech Election",
-    "snippet": "This year has shown that technology can be both essential and irrelevant.",
-    "pub_date": "2020-11-06T17:30:35Z",
-    "url": "https://www.nytimes.com/2020/11/06/technology/election-tech.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Toyota Invests $1 Billion in Artificial Intelligence in U.S.",
-    "snippet": "The initiative, the Toyota Research Institute, will create one of the biggest labs in Silicon Valley and will be led by the roboticist Gill Pratt.",
-    "pub_date": "2015-11-06T05:06:58Z",
-    "url": "https://www.nytimes.com/2015/11/06/technology/toyota-silicon-valley-artificial-intelligence-research-center.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Daily Report: A $1 Billion Bet on Artificial Intelligence in Silicon Valley",
-    "snippet": "Interest and investment in artificial intelligence is back with a vengeance in Silicon Valley, attracting companies such as Toyota to make big bets in the space.",
-    "pub_date": "2015-11-06T14:52:26Z",
-    "url": "https://bits.blogs.nytimes.com/2015/11/06/daily-report-a-1-billion-bet-on-artificial-intelligence-in-silicon-valley/",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Automation Will Change Jobs More Than Kill Them",
-    "snippet": "A new McKinsey report concludes that technology-driven automation will redefine jobs far more than it will eliminate them.",
-    "pub_date": "2015-11-06T16:00:32Z",
-    "url": "https://bits.blogs.nytimes.com/2015/11/06/automation-will-change-jobs-more-than-kill-them/",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "Molinari and Westwood Locked in Shanghai Duel",
-    "snippet": "In Shanghai, Franceso Molinari and Lee Westwood remained separated by one stroke after three rounds of the HSBC Champions.",
-    "pub_date": "2010-11-06T19:58:27Z",
-    "url": "https://www.nytimes.com/2010/11/07/sports/golf/07golf.html",
-    "section": "Sports"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "Chasing Pirates: Inside Microsoft’s War Room",
-    "snippet": "Microsoft’s theft fight has implications beyond the bottom line in an industry that relies on intellectual property.",
-    "pub_date": "2010-11-06T18:56:10Z",
-    "url": "https://www.nytimes.com/2010/11/07/technology/07piracy.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2000,
-    "headline": "Cornered Afghan Foes Hope Winter Will Slow the Taliban",
-    "snippet": "Afghanistan's Taliban militia, largely unstoppable since start of its nationwide march in 1995, adds more territory to domain during summer, winning victories in country's northeast, including capture of strategically important city of Taliqan in September after 33-day battle; currently controls estimated 90 to 95 percent of country that has been at war for 21 years, leaving smidgen to government of Pres Burhanuddin Rabbani, considered legimimate by most of world; Ahmad Shah Massoud, Rabbani's military commander, is desperately trying to hold his army together to launch counteroffensive; is optimistic winter's deep snows and punishing winds will slow Taliban's advance and lead to recapture of city, which is on major supply route; map; photo (M)",
-    "pub_date": "2000-11-06T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/11/06/world/cornered-afghan-foes-hope-winter-will-slow-the-taliban.html",
+    "headline": "‘It’s Like Falling in Love’: Israeli Entrepreneurs Welcomed in Dubai",
+    "snippet": "A high-profile delegation of Israeli innovators visited the United Arab Emirates soon after moves to normalize relations.",
+    "pub_date": "2020-11-07T10:00:22Z",
+    "url": "https://www.nytimes.com/2020/11/07/world/middleeast/israel-dubai-entrepreneurs.html",
     "section": "World"
   },
   {
-    "historical_year": 2000,
-    "headline": "NEW YORK CITY MARATHON 2000: PART 1 OF 26; The Many, The Proud, The Finishers",
-    "snippet": "",
-    "pub_date": "2000-11-06T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/11/06/sports/new-york-city-marathon-2000-part-1-of-26-the-many-the-proud-the-finishers.html",
+    "historical_year": 2015,
+    "headline": "Kisner Leads by 2 in China",
+    "snippet": "Kevin Kisner kept up his impressive debut in China with a six-under-par 66 that gave him a two-shot lead over Russell Knox at the HSBC Champions in Shanghai.",
+    "pub_date": "2015-11-07T05:03:44Z",
+    "url": "https://www.nytimes.com/2015/11/07/sports/golf/newcomer-to-course-leads-by-two.html",
     "section": "Sports"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Corrections: November 7, 2015",
+    "snippet": "Corrections appearing in print on Saturday, November 7, 2015",
+    "pub_date": "2015-11-07T06:29:26Z",
+    "url": "https://www.nytimes.com/2015/11/07/pageoneplus/corrections-november-7-2015.html",
+    "section": "Corrections"
+  },
+  {
+    "historical_year": 2000,
+    "headline": "A CONVERSATION WITH: ANNE FOERST; Do Androids Dream? M.I.T. Working on It",
+    "snippet": "Interview with Dr Anne Foerst, researcher at Artificial Ingelligence Laboratory at Massachusetts Institute of Technology, and director of MIT's God and Computers project; Foerst, a Lutheran minister, says laboratory is trying to build robots that are social and embodied; photos (L)",
+    "pub_date": "2000-11-07T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/11/07/science/a-conversation-with-anne-foerst-do-androids-dream-mit-working-on-it.html",
+    "section": "Science"
   }
 ]
