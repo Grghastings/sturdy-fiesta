@@ -1,34 +1,58 @@
 [
   {
     "historical_year": 2020,
-    "headline": "‘It’s Like Falling in Love’: Israeli Entrepreneurs Welcomed in Dubai",
-    "snippet": "A high-profile delegation of Israeli innovators visited the United Arab Emirates soon after moves to normalize relations.",
-    "pub_date": "2020-11-07T10:00:22Z",
-    "url": "https://www.nytimes.com/2020/11/07/world/middleeast/israel-dubai-entrepreneurs.html",
-    "section": "World"
+    "headline": "In a Divided Washington, Biden Could Still Exert Economic Power",
+    "snippet": "If Republicans control the Senate, a Biden administration could take a cue from President Trump. Here are some ways he could act unilaterally.",
+    "pub_date": "2020-11-08T23:03:50Z",
+    "url": "https://www.nytimes.com/2020/11/08/us/politics/biden-economy.html",
+    "section": "U.S."
   },
   {
     "historical_year": 2015,
-    "headline": "Kisner Leads by 2 in China",
-    "snippet": "Kevin Kisner kept up his impressive debut in China with a six-under-par 66 that gave him a two-shot lead over Russell Knox at the HSBC Champions in Shanghai.",
-    "pub_date": "2015-11-07T05:03:44Z",
-    "url": "https://www.nytimes.com/2015/11/07/sports/golf/newcomer-to-course-leads-by-two.html",
-    "section": "Sports"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "Corrections: November 7, 2015",
-    "snippet": "Corrections appearing in print on Saturday, November 7, 2015",
-    "pub_date": "2015-11-07T06:29:26Z",
-    "url": "https://www.nytimes.com/2015/11/07/pageoneplus/corrections-november-7-2015.html",
+    "headline": "Corrections: November 8, 2015",
+    "snippet": "Corrections appearing in print on Sunday, November 8, 2015.",
+    "pub_date": "2015-11-08T07:05:04Z",
+    "url": "https://www.nytimes.com/2015/11/08/pageoneplus/corrections-november-8-2015.html",
     "section": "Corrections"
   },
   {
-    "historical_year": 2000,
-    "headline": "A CONVERSATION WITH: ANNE FOERST; Do Androids Dream? M.I.T. Working on It",
-    "snippet": "Interview with Dr Anne Foerst, researcher at Artificial Ingelligence Laboratory at Massachusetts Institute of Technology, and director of MIT's God and Computers project; Foerst, a Lutheran minister, says laboratory is trying to build robots that are social and embodied; photos (L)",
-    "pub_date": "2000-11-07T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/11/07/science/a-conversation-with-anne-foerst-do-androids-dream-mit-working-on-it.html",
+    "historical_year": 2010,
+    "headline": "Quantum Computing Reaches for True Power",
+    "snippet": "Three major technologies all have the potential to move from demonstration computers to practical, highly powerful machines.",
+    "pub_date": "2010-11-08T23:24:47Z",
+    "url": "https://www.nytimes.com/2010/11/09/science/09compute.html",
     "section": "Science"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "Francesco Molinari Outlasts Westwood for HSBC Title",
+    "snippet": "The tournament came down to the final putt, and it was a one-shot victory for Francesco Molinari.",
+    "pub_date": "2010-11-08T02:56:15Z",
+    "url": "https://www.nytimes.com/2010/11/08/sports/golf/08golf.html",
+    "section": "Sports"
+  },
+  {
+    "historical_year": 2000,
+    "headline": "PLUS: TENNIS; Agassi Eliminates Doubles Partner",
+    "snippet": "An",
+    "pub_date": "2000-11-08T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/11/08/sports/plus-tennis-agassi-eliminates-doubles-partner.html",
+    "section": "Sports"
+  },
+  {
+    "historical_year": 2000,
+    "headline": "THE 2000 ELECTIONS: RESULTS; The Races for Governor",
+    "snippet": "Partial tallies of gubernatorial races; map",
+    "pub_date": "2000-11-08T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/11/08/us/the-2000-elections-results-the-races-for-governor.html",
+    "section": "U.S."
+  },
+  {
+    "historical_year": 2000,
+    "headline": "THE 2000 ELECTIONS: RESULTS; The Races for the U.S. Senate",
+    "snippet": "State-by-state partial tally of United States Senate race results; map",
+    "pub_date": "2000-11-08T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/11/08/us/the-2000-elections-results-the-races-for-the-us-senate.html",
+    "section": "U.S."
   }
 ]
