@@ -1,58 +1,18 @@
 [
   {
     "historical_year": 2020,
-    "headline": "In a Divided Washington, Biden Could Still Exert Economic Power",
-    "snippet": "If Republicans control the Senate, a Biden administration could take a cue from President Trump. Here are some ways he could act unilaterally.",
-    "pub_date": "2020-11-08T23:03:50Z",
-    "url": "https://www.nytimes.com/2020/11/08/us/politics/biden-economy.html",
-    "section": "U.S."
+    "headline": "A Step Forward in the Promise of Ultrafast ‘Hyperloops’",
+    "snippet": "Two employees of Virgin Hyperloop traveled on a small system the company has built near Las Vegas, the first such manned test.",
+    "pub_date": "2020-11-09T00:46:37Z",
+    "url": "https://www.nytimes.com/2020/11/08/business/virgin-hyperloop-passenger-test.html",
+    "section": "Business"
   },
   {
     "historical_year": 2015,
-    "headline": "Corrections: November 8, 2015",
-    "snippet": "Corrections appearing in print on Sunday, November 8, 2015.",
-    "pub_date": "2015-11-08T07:05:04Z",
-    "url": "https://www.nytimes.com/2015/11/08/pageoneplus/corrections-november-8-2015.html",
-    "section": "Corrections"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "Quantum Computing Reaches for True Power",
-    "snippet": "Three major technologies all have the potential to move from demonstration computers to practical, highly powerful machines.",
-    "pub_date": "2010-11-08T23:24:47Z",
-    "url": "https://www.nytimes.com/2010/11/09/science/09compute.html",
-    "section": "Science"
-  },
-  {
-    "historical_year": 2010,
-    "headline": "Francesco Molinari Outlasts Westwood for HSBC Title",
-    "snippet": "The tournament came down to the final putt, and it was a one-shot victory for Francesco Molinari.",
-    "pub_date": "2010-11-08T02:56:15Z",
-    "url": "https://www.nytimes.com/2010/11/08/sports/golf/08golf.html",
-    "section": "Sports"
-  },
-  {
-    "historical_year": 2000,
-    "headline": "PLUS: TENNIS; Agassi Eliminates Doubles Partner",
-    "snippet": "An",
-    "pub_date": "2000-11-08T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/11/08/sports/plus-tennis-agassi-eliminates-doubles-partner.html",
-    "section": "Sports"
-  },
-  {
-    "historical_year": 2000,
-    "headline": "THE 2000 ELECTIONS: RESULTS; The Races for Governor",
-    "snippet": "Partial tallies of gubernatorial races; map",
-    "pub_date": "2000-11-08T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/11/08/us/the-2000-elections-results-the-races-for-governor.html",
-    "section": "U.S."
-  },
-  {
-    "historical_year": 2000,
-    "headline": "THE 2000 ELECTIONS: RESULTS; The Races for the U.S. Senate",
-    "snippet": "State-by-state partial tally of United States Senate race results; map",
-    "pub_date": "2000-11-08T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/11/08/us/the-2000-elections-results-the-races-for-the-us-senate.html",
-    "section": "U.S."
+    "headline": "Google Offers Free Software in Bid to Gain an Edge in Machine Learning",
+    "snippet": "Google is making much of its machine-learning technology freely available as open-source software. The move is intended to accelerate innovation in the field and enrich Google.",
+    "pub_date": "2015-11-09T14:00:22Z",
+    "url": "https://bits.blogs.nytimes.com/2015/11/09/google-offers-free-software-in-bid-to-gain-an-edge-in-machine-learning/",
+    "section": "Technology"
   }
 ]
