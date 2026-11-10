@@ -1,18 +1,18 @@
 [
   {
-    "historical_year": 2020,
-    "headline": "A Step Forward in the Promise of Ultrafast ‘Hyperloops’",
-    "snippet": "Two employees of Virgin Hyperloop traveled on a small system the company has built near Las Vegas, the first such manned test.",
-    "pub_date": "2020-11-09T00:46:37Z",
-    "url": "https://www.nytimes.com/2020/11/08/business/virgin-hyperloop-passenger-test.html",
-    "section": "Business"
+    "historical_year": 2015,
+    "headline": "You, Only Better",
+    "snippet": "Is “biohacking” just a fad? Or can data-driven diets help us become an improved, happier species?",
+    "pub_date": "2015-11-10T12:00:20Z",
+    "url": "https://www.nytimes.com/2015/11/15/magazine/you-only-better.html",
+    "section": "Magazine"
   },
   {
-    "historical_year": 2015,
-    "headline": "Google Offers Free Software in Bid to Gain an Edge in Machine Learning",
-    "snippet": "Google is making much of its machine-learning technology freely available as open-source software. The move is intended to accelerate innovation in the field and enrich Google.",
-    "pub_date": "2015-11-09T14:00:22Z",
-    "url": "https://bits.blogs.nytimes.com/2015/11/09/google-offers-free-software-in-bid-to-gain-an-edge-in-machine-learning/",
-    "section": "Technology"
+    "historical_year": 2010,
+    "headline": "Eighth Shanghai Biennale Offers Wide Range of Art Concepts",
+    "snippet": "If the goal of the art show, held at the Shanghai Art Museum, was to challenge the idea of what is or is not art, then it succeeded with its varied offerings.",
+    "pub_date": "2010-11-10T12:16:07Z",
+    "url": "https://www.nytimes.com/2010/11/11/arts/11iht-shangshow.html",
+    "section": "Arts"
   }
 ]
