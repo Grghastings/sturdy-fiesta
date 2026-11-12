@@ -1,34 +1,26 @@
 [
   {
     "historical_year": 2020,
-    "headline": "‘Coded Bias’ Review: When the Bots Are Racist",
-    "snippet": "This cleareyed documentary explores how machine-learning algorithms can perpetuate society’s existing class-, race- and gender-based inequities.",
-    "pub_date": "2020-11-11T18:42:30Z",
-    "url": "https://www.nytimes.com/2020/11/11/movies/coded-bias-review.html",
-    "section": "Movies"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Training Facial Recognition on Some New Furry Friends: Bears",
-    "snippet": "Two Silicon Valley developers aided conservationists in developing artificial intelligence to help keep track of individual bears.",
-    "pub_date": "2020-11-11T18:33:13Z",
-    "url": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
-    "section": "Science"
+    "headline": "Meet the Speakers for the DealBook Online Summit",
+    "snippet": "Bill Gates, Senator Elizabeth Warren, Jamie Dimon and others will join us.",
+    "pub_date": "2020-11-12T12:09:18Z",
+    "url": "https://www.nytimes.com/2020/11/12/business/dealbook/dealbook-summit-gates-warren.html",
+    "section": "Business"
   },
   {
     "historical_year": 2015,
-    "headline": "China Corruption Fight Extends to Top Officials in Beijing and Shanghai",
-    "snippet": "The Chinese authorities did not detail the charges, saying only that the officials were being investigated for “serious breaches of discipline.”",
-    "pub_date": "2015-11-11T10:47:10Z",
-    "url": "https://www.nytimes.com/2015/11/12/world/asia/china-crackdown-corruption-beijing-shanghai-ai-baojun-lu-xiwen.html",
-    "section": "World"
+    "headline": "Ai Weiwei Debuts His First Jewelry Collection",
+    "snippet": "The artist discusses his new line, out this week, which is based on his work with rebars gathered after the 2008 Sichuan earthquake.",
+    "pub_date": "2015-11-12T21:00:14Z",
+    "url": "https://www.nytimes.com/2015/11/12/t-magazine/ai-weiwei-first-jewelry-collection.html",
+    "section": "T Magazine"
   },
   {
     "historical_year": 2010,
-    "headline": "Corrections",
-    "snippet": "Corrections appearing in print on November 11, 2010",
-    "pub_date": "2010-11-11T03:59:19Z",
-    "url": "https://www.nytimes.com/2010/11/11/pageoneplus/corrections.html",
-    "section": "Corrections"
+    "headline": "Suddenly the Cold War Is a Cool Event",
+    "snippet": "Call of Duty: Black Ops reflects a keen intelligence and a rigorous understanding of each individual element of modern game design.",
+    "pub_date": "2010-11-12T22:51:12Z",
+    "url": "https://www.nytimes.com/2010/11/13/arts/television/13duty.html",
+    "section": "Arts"
   }
 ]
