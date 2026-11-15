@@ -1,18 +1,10 @@
 [
   {
-    "historical_year": 2015,
-    "headline": "Farhad and Mike’s Week in Tech: Robots vs. Jobs",
-    "snippet": "A look at a G.O.P. candidate’s thoughts on how robots may replace humans in the work force, and a smartphone from Facebook that sends news alerts to your phone.",
-    "pub_date": "2015-11-14T14:30:24Z",
-    "url": "https://www.nytimes.com/2015/11/15/technology/farhad-and-mikes-week-in-tech-robots-vs-jobs.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2015,
-    "headline": "IBM’s Design-Centered Strategy to Set Free the Squares",
-    "snippet": "The tech stalwart has been hiring designers by the hundreds, all part of an accelerated approach to product development that is a major departure from the past.",
-    "pub_date": "2015-11-14T10:58:38Z",
-    "url": "https://www.nytimes.com/2015/11/15/business/ibms-design-centered-strategy-to-set-free-the-squares.html",
-    "section": "Technology"
+    "historical_year": 2020,
+    "headline": "To Survive the Pandemic, Savile Row Cuts a Bespoke Strategy",
+    "snippet": "With formal events and travel canceled, the tradition-bound tailors are gently embracing technology — and finding leverage on their landlords.",
+    "pub_date": "2020-11-15T08:00:16Z",
+    "url": "https://www.nytimes.com/2020/11/15/business/savile-row-covid.html",
+    "section": "Business"
   }
 ]
