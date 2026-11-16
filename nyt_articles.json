@@ -1,10 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "To Survive the Pandemic, Savile Row Cuts a Bespoke Strategy",
-    "snippet": "With formal events and travel canceled, the tradition-bound tailors are gently embracing technology — and finding leverage on their landlords.",
-    "pub_date": "2020-11-15T08:00:16Z",
-    "url": "https://www.nytimes.com/2020/11/15/business/savile-row-covid.html",
+    "headline": "Biden’s China Policy? A Balancing Act for a Toxic Relationship",
+    "snippet": "As president, Joe Biden will face deep dilemmas, and a lot of unfinished business, stemming from President Trump’s multiyear onslaught against China.",
+    "pub_date": "2020-11-16T10:00:22Z",
+    "url": "https://www.nytimes.com/2020/11/16/business/economy/biden-china-trade-policy.html",
     "section": "Business"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "At-Home Covid Tests and Other Powers of a Tech Billionaire",
+    "snippet": "Chamath Palihapitiya made his fortune with bold predictions and bets on the future. That wealth gives him influence well beyond Silicon Valley — but should it?",
+    "pub_date": "2020-11-16T10:00:04Z",
+    "url": "https://www.nytimes.com/2020/11/16/opinion/sway-kara-swisher-chamath-palihapitiya.html",
+    "section": "Opinion"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Daily Report: IBM Embraces Its Inner Designer",
+    "snippet": "Phil Gilbert, head of design at IBM, is trying to get the technology giant to embrace a new concept that could potentially help the company, which has seen two years of declining revenue, rethink its approach.",
+    "pub_date": "2015-11-16T14:25:12Z",
+    "url": "https://bits.blogs.nytimes.com/2015/11/16/daily-report-ibm-embraces-its-inner-designer/",
+    "section": "Technology"
+  },
+  {
+    "historical_year": 2000,
+    "headline": "A Robot That Coos, Cries and Knows When It Needs a New Diaper",
+    "snippet": "My Real Baby, animatronic doll priced at $100, was developed by iRobot working with Hasbro; Dr Rodney Brooks, chairman of iRobot, talks about My Real Baby doll and what it can do; photo (M)",
+    "pub_date": "2000-11-16T05:00:00Z",
+    "url": "https://www.nytimes.com/2000/11/16/technology/a-robot-that-coos-cries-and-knows-when-it-needs-a-new-diaper.html",
+    "section": "Technology"
   }
 ]
