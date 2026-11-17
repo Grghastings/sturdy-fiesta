@@ -1,34 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Biden’s China Policy? A Balancing Act for a Toxic Relationship",
-    "snippet": "As president, Joe Biden will face deep dilemmas, and a lot of unfinished business, stemming from President Trump’s multiyear onslaught against China.",
-    "pub_date": "2020-11-16T10:00:22Z",
-    "url": "https://www.nytimes.com/2020/11/16/business/economy/biden-china-trade-policy.html",
+    "headline": "Women and Leadership: Looking Beyond the Global Health Crisis",
+    "snippet": "We asked female leaders in crucial disciplines to talk about the role women can have in determining what the world looks like after the pandemic.",
+    "pub_date": "2020-11-17T10:00:32Z",
+    "url": "https://www.nytimes.com/2020/11/17/business/women-leaders-pandemic.html",
     "section": "Business"
   },
   {
     "historical_year": 2020,
-    "headline": "At-Home Covid Tests and Other Powers of a Tech Billionaire",
-    "snippet": "Chamath Palihapitiya made his fortune with bold predictions and bets on the future. That wealth gives him influence well beyond Silicon Valley — but should it?",
-    "pub_date": "2020-11-16T10:00:04Z",
-    "url": "https://www.nytimes.com/2020/11/16/opinion/sway-kara-swisher-chamath-palihapitiya.html",
-    "section": "Opinion"
+    "headline": "Don’t Fear the Robots, and Other Lessons From a Study of the Digital Economy",
+    "snippet": "A task force assembled by M.I.T. examined how technology has changed, and will change, the work force.",
+    "pub_date": "2020-11-17T12:00:10Z",
+    "url": "https://www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.html",
+    "section": "Technology"
   },
   {
     "historical_year": 2015,
-    "headline": "Daily Report: IBM Embraces Its Inner Designer",
-    "snippet": "Phil Gilbert, head of design at IBM, is trying to get the technology giant to embrace a new concept that could potentially help the company, which has seen two years of declining revenue, rethink its approach.",
-    "pub_date": "2015-11-16T14:25:12Z",
-    "url": "https://bits.blogs.nytimes.com/2015/11/16/daily-report-ibm-embraces-its-inner-designer/",
+    "headline": "Artificial Intelligence Draws New Connections for Personalization",
+    "snippet": "A start-up called Sentient could point a way to a future where sitting on a vast trove of data can be even more valuable than it is today.",
+    "pub_date": "2015-11-17T01:01:38Z",
+    "url": "https://bits.blogs.nytimes.com/2015/11/16/artificial-intelligence-draws-new-connections-for-personalization/",
     "section": "Technology"
   },
   {
-    "historical_year": 2000,
-    "headline": "A Robot That Coos, Cries and Knows When It Needs a New Diaper",
-    "snippet": "My Real Baby, animatronic doll priced at $100, was developed by iRobot working with Hasbro; Dr Rodney Brooks, chairman of iRobot, talks about My Real Baby doll and what it can do; photo (M)",
-    "pub_date": "2000-11-16T05:00:00Z",
-    "url": "https://www.nytimes.com/2000/11/16/technology/a-robot-that-coos-cries-and-knows-when-it-needs-a-new-diaper.html",
-    "section": "Technology"
+    "historical_year": 2010,
+    "headline": "China’s Censors Misfire in Abuse-of-Power Case",
+    "snippet": "The heavy-handed efforts to control the story of a fatal accident involving a police official’s son have been met with scorn.",
+    "pub_date": "2010-11-17T23:01:43Z",
+    "url": "https://www.nytimes.com/2010/11/18/world/asia/18li.html",
+    "section": "World"
   }
 ]
