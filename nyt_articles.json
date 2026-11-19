@@ -1,42 +1,26 @@
 [
   {
     "historical_year": 2020,
-    "headline": "What Did Europe Smell Like Centuries Ago? Historians Set Out to Recreate Lost Scents",
-    "snippet": "A project announced this week and funded by the European Union will catalog and recreate scents from the 16th century to the early 20th century.",
-    "pub_date": "2020-11-18T16:19:34Z",
-    "url": "https://www.nytimes.com/2020/11/18/world/europe/europe-historic-smells.html",
-    "section": "World"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "N.Y.C. Schools, Biden Transition, Ina Garten: Your Wednesday Evening Briefing",
-    "snippet": "Here’s what you need to know at the end of the day.",
-    "pub_date": "2020-11-18T23:00:06Z",
-    "url": "https://www.nytimes.com/2020/11/18/briefing/nyc-schools-biden-transition-ina-garten.html",
-    "section": "Briefing"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "The Best Films and TV Shows to Stream Over the Holidays",
-    "snippet": "Hollywood history (“Mank”), jazz (“Soul”) and romance (“Happiest Season”) all have a chance to shine in your living room as the year comes to an end.",
-    "pub_date": "2020-11-18T10:02:56Z",
-    "url": "https://www.nytimes.com/2020/11/18/movies/movies-tv-stream-online.html",
-    "section": "Movies"
+    "headline": "What We Learned From the DealBook Online Summit",
+    "snippet": "LeBron James, Senator Elizabeth Warren, Dr. Anthony Fauci and more spoke about topics like voting rights, Washington’s future and the pandemic.",
+    "pub_date": "2020-11-19T12:22:36Z",
+    "url": "https://www.nytimes.com/2020/11/19/business/dealbook/dealbook-summit-lebron-warren-fauci-gates.html",
+    "section": "Business"
   },
   {
     "historical_year": 2015,
-    "headline": "Drone Maker DJI Adds Technology to Limit Where Its Machines Can Fly",
-    "snippet": "DJI, a maker of small-scale drones, is adding so-called geofencing technology that would prevent the aerial devices from going into certain areas, like the skies over a forest fire.",
-    "pub_date": "2015-11-18T00:15:59Z",
-    "url": "https://bits.blogs.nytimes.com/2015/11/17/drone-maker-dji-adds-technology-to-limit-where-its-machines-can-fly/",
-    "section": "Technology"
+    "headline": "Theater Listings for Nov. 20-26",
+    "snippet": "A critical guide to productions in New York City, including shows in previews.",
+    "pub_date": "2015-11-19T22:27:23Z",
+    "url": "https://www.nytimes.com/2015/11/20/theater/theater-listings-for-nov-20-26.html",
+    "section": "Theater"
   },
   {
     "historical_year": 2010,
-    "headline": "Spare Times: For Children, for Nov. 19-25",
-    "snippet": "A selected guide to events for and by children in New York.",
-    "pub_date": "2010-11-18T23:17:23Z",
-    "url": "https://www.nytimes.com/2010/11/19/arts/19kids.html",
+    "headline": "Christie’s and China: An Artful Diplomacy",
+    "snippet": "The auction house’s recent “Trans-Realism” show is part of an effort to improve relations with the Chinese, but some question the government’s role in the project.",
+    "pub_date": "2010-11-19T22:29:08Z",
+    "url": "https://www.nytimes.com/2010/11/20/arts/design/20realism.html",
     "section": "Arts"
   }
 ]
