@@ -1,26 +1,58 @@
 [
   {
     "historical_year": 2020,
-    "headline": "What We Learned From the DealBook Online Summit",
-    "snippet": "LeBron James, Senator Elizabeth Warren, Dr. Anthony Fauci and more spoke about topics like voting rights, Washington’s future and the pandemic.",
-    "pub_date": "2020-11-19T12:22:36Z",
-    "url": "https://www.nytimes.com/2020/11/19/business/dealbook/dealbook-summit-lebron-warren-fauci-gates.html",
+    "headline": "When Sharks Turned Up at Their Beach, They Called in Drones",
+    "snippet": "A goal of the SharkEye project is to one day produce automated “shark reports” for beachgoers to help them gauge levels of risk.",
+    "pub_date": "2020-11-20T18:18:40Z",
+    "url": "https://www.nytimes.com/2020/11/20/science/sharks-drones-artificial-intelligence.html",
+    "section": "Science"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "These Algorithms Could Bring an End to the World’s Deadliest Killer",
+    "snippet": "In rural India and other places where tuberculosis is rampant, A.I. that scans lung X-rays might eliminate the scourge.",
+    "pub_date": "2020-11-20T16:44:15Z",
+    "url": "https://www.nytimes.com/2020/11/20/health/tuberculosis-ai-apps.html",
+    "section": "Health"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Could Limiting Corporate Candidates Hurt Biden’s Diversity Push?",
+    "snippet": "Narrowing the candidate pool may not lead to the diverse representation the incoming administration is seeking.",
+    "pub_date": "2020-11-20T12:48:51Z",
+    "url": "https://www.nytimes.com/2020/11/20/business/dealbook/biden-administration-diversity.html",
     "section": "Business"
   },
   {
+    "historical_year": 2020,
+    "headline": "The 46th: Progressive Democrats’ Next Moves Under Biden",
+    "snippet": "What should Joe Biden prioritize in his first 100 days?",
+    "pub_date": "2020-11-20T10:00:10Z",
+    "url": "https://www.nytimes.com/2020/11/20/opinion/the-argument-pramila-jayapal-kara-swisher.html",
+    "section": "Opinion"
+  },
+  {
     "historical_year": 2015,
-    "headline": "Theater Listings for Nov. 20-26",
-    "snippet": "A critical guide to productions in New York City, including shows in previews.",
-    "pub_date": "2015-11-19T22:27:23Z",
-    "url": "https://www.nytimes.com/2015/11/20/theater/theater-listings-for-nov-20-26.html",
+    "headline": "Lois Smith’s Year of Working Constantly",
+    "snippet": "A professional actress since 1952, Ms. Smith has never been busier, now coming to Playwrights Horizons in the futuristic “Marjorie Prime.”",
+    "pub_date": "2015-11-20T15:55:03Z",
+    "url": "https://www.nytimes.com/2015/11/22/theater/lois-smiths-year-of-working-constantly.html",
     "section": "Theater"
   },
   {
     "historical_year": 2010,
-    "headline": "Christie’s and China: An Artful Diplomacy",
-    "snippet": "The auction house’s recent “Trans-Realism” show is part of an effort to improve relations with the Chinese, but some question the government’s role in the project.",
-    "pub_date": "2010-11-19T22:29:08Z",
-    "url": "https://www.nytimes.com/2010/11/20/arts/design/20realism.html",
-    "section": "Arts"
+    "headline": "Chronicle of a Changing City",
+    "snippet": "The Setai, a new luxury hotel, offers penthouses at $15,000 a night, and the city closes off a popular launching spot for kayakers on the polluted Newtown Creek.",
+    "pub_date": "2010-11-20T01:33:27Z",
+    "url": "https://www.nytimes.com/2010/11/21/nyregion/21open.html",
+    "section": "New York"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "For an Online Marketplace, It’s Better Late Than Never",
+    "snippet": "A decade after the dot-com bust, Ariba’s business-to-business trading network has gained much traction.",
+    "pub_date": "2010-11-20T17:41:22Z",
+    "url": "https://www.nytimes.com/2010/11/21/business/21ping.html",
+    "section": "Business"
   }
 ]
