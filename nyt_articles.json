@@ -1,34 +1,34 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Designed to Deceive: Do These People Look Real to You?",
-    "snippet": "The people in this story may look familiar, like ones you’ve seen on Facebook or Twitter or Tinder. But they don’t exist. They were born from a computer.",
-    "pub_date": "2020-11-21T05:31:53Z",
-    "url": "https://www.nytimes.com/interactive/2020/11/21/science/artificial-intelligence-fake-people-faces.html",
+    "headline": "Can We Make Our Robots Less Biased Than We Are?",
+    "snippet": "A.I. developers are committing to end the injustices in how their technology is often made and used.",
+    "pub_date": "2020-11-22T10:00:16Z",
+    "url": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
     "section": "Science"
   },
   {
     "historical_year": 2020,
-    "headline": "Antibodies Good. Machine-Made Molecules Better?",
-    "snippet": "With help from computer algorithms, researchers designed proteins from scratch that can trounce the coronavirus in lab animals.",
-    "pub_date": "2020-11-21T10:00:19Z",
-    "url": "https://www.nytimes.com/2020/11/21/science/coronavirus-antibodies-artificial-intelligence.html",
+    "headline": "Your Monday Briefing",
+    "snippet": "Here’s what you need to know.",
+    "pub_date": "2020-11-22T19:54:04Z",
+    "url": "https://www.nytimes.com/2020/11/22/briefing/coronavirus-japan-southkorea-israel.html",
+    "section": "Briefing"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Thanksgiving, Coronavirus, Presidential Transition: Your Weekend Briefing",
+    "snippet": "Here’s what you need to know about the week’s top stories.",
+    "pub_date": "2020-11-22T11:03:53Z",
+    "url": "https://www.nytimes.com/2020/11/22/briefing/thanksgiving-coronavirus-presidential-transition-your-weekend-briefing.html",
+    "section": "Briefing"
+  },
+  {
+    "historical_year": 2010,
+    "headline": "In Cybertherapy, Avatars Assist With Healing",
+    "snippet": "Patients can experience and work through social challenges without real-world consequences.",
+    "pub_date": "2010-11-22T22:04:18Z",
+    "url": "https://www.nytimes.com/2010/11/23/science/23avatar.html",
     "section": "Science"
-  },
-  {
-    "historical_year": 2005,
-    "headline": "Critics' Choices: New CD's",
-    "snippet": " Juelz Santana  ''What the Game's Been Missing!''  (Island Def Jam)       Cam'ron and his Harlem-based crew, the Diplomats, have built a small empire based on swagger and skepticism. Cam'ron's gobbledygook gangsta rap shows off his mastery of the game and his contempt for its rules. And his most exciting protégé, Juelz Santana, is so utterly (and accurately) convinced of his own allure that he can scarcely be bothered to rap.  ",
-    "pub_date": "2005-11-21T05:00:00Z",
-    "url": "https://www.nytimes.com/2005/11/21/arts/critics-choices-new-cds-793353.html",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2005,
-    "headline": "New CD's",
-    "snippet": "Reviews of new releases by System of a Down, Juelz Santana, Ben Monder, Carrie Underwood and Chamillionaire.",
-    "pub_date": "2005-11-21T05:00:00Z",
-    "url": "https://www.nytimes.com/2005/11/21/arts/music/new-cds.html",
-    "section": "Arts"
   }
 ]
