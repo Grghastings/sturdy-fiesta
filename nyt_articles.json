@@ -1,90 +1,82 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Can a Computer Devise a Theory of Everything?",
-    "snippet": "It might be possible, physicists say, but not anytime soon. And there’s no guarantee that we humans will understand the result.",
-    "pub_date": "2020-11-23T10:00:17Z",
-    "url": "https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html",
+    "headline": "Meet GPT-3. It Has Learned to Code (and Blog and Argue).",
+    "snippet": "The latest natural-language system generates tweets, pens poetry, summarizes emails, translates languages and even writes its own computer programs.",
+    "pub_date": "2020-11-24T07:30:09Z",
+    "url": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-ai-gpt3.html",
     "section": "Science"
   },
   {
     "historical_year": 2020,
-    "headline": "Do You Have a Conflict of Interest? This Robotic Assistant May Find It First",
-    "snippet": "They can’t detect all conflicts, but new computer programs serve as guard rails when scientists and publishers fail to self-police.",
-    "pub_date": "2020-11-23T21:51:13Z",
-    "url": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
+    "headline": "When A.I. Falls in Love",
+    "snippet": "The Times asked GPT-3 to tell us a little about itself and its romantic life.",
+    "pub_date": "2020-11-24T07:30:08Z",
+    "url": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-gpt3-writing-love.html",
     "section": "Science"
   },
   {
     "historical_year": 2020,
-    "headline": "Can an Algorithm Prevent Suicide?",
-    "snippet": "The Department of Veterans Affairs has turned to machine-learning to help identify vets at risk of taking their own lives.",
-    "pub_date": "2020-11-23T10:00:14Z",
-    "url": "https://www.nytimes.com/2020/11/23/health/artificial-intelligence-veterans-suicide.html",
-    "section": "Health"
+    "headline": "Need a Hypothesis? This A.I. Has One",
+    "snippet": "Slowly, machine-learning systems are beginning to generate ideas, not just test them.",
+    "pub_date": "2020-11-24T13:47:01Z",
+    "url": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-ai-psychology.html",
+    "section": "Science"
   },
   {
     "historical_year": 2020,
-    "headline": "Lesson of the Day: ‘Designed to Deceive: Do These People Look Real to You?’",
-    "snippet": "In this lesson, students will learn about a new type of artificial intelligence and consider its implications for our society.",
-    "pub_date": "2020-11-23T09:00:03Z",
-    "url": "https://www.nytimes.com/2020/11/23/learning/lesson-of-the-day-designed-to-deceive-do-these-people-look-real-to-you.html",
-    "section": "The Learning Network"
+    "headline": "How Archaeologists Are Using Deep Learning to Dig Deeper",
+    "snippet": "Trawling ancient history with neural nets.",
+    "pub_date": "2020-11-24T07:30:13Z",
+    "url": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html",
+    "section": "Science"
   },
   {
     "historical_year": 2020,
-    "headline": "China’s Surveillance State Sucks Up Data. U.S. Tech Is Key to Sorting It.",
-    "snippet": "Intel and Nvidia chips power the Chinese government’s surveillance and suppression of minorities, raising questions about the industry’s responsibility.",
-    "pub_date": "2020-11-23T02:00:12Z",
-    "url": "https://www.nytimes.com/2020/11/22/technology/china-intel-nvidia-xinjiang.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Cabinet Picks, Michigan Vote, Vaccines: Your Monday Evening Briefing",
+    "headline": "Stocks, Joe Biden, Thanksgiving Naps: Your Tuesday Evening Briefing",
     "snippet": "Here’s what you need to know at the end of the day.",
-    "pub_date": "2020-11-23T22:50:39Z",
-    "url": "https://www.nytimes.com/2020/11/23/briefing/cabinet-picks-michigan-vaccines.html",
+    "pub_date": "2020-11-24T22:56:51Z",
+    "url": "https://www.nytimes.com/2020/11/24/briefing/stocks-joe-biden-thanksgiving-naps.html",
     "section": "Briefing"
   },
   {
     "historical_year": 2020,
-    "headline": "Europe, Covid-19, Trump: Your Monday Briefing",
-    "snippet": "Here’s what you need to know.",
-    "pub_date": "2020-11-23T02:33:27Z",
-    "url": "https://www.nytimes.com/2020/11/22/briefing/europe-covid-uk-trump-israel.html",
+    "headline": "The Transition Begins",
+    "snippet": "Make sense of the news, every day, with David Leonhardt.",
+    "pub_date": "2020-11-24T11:29:03Z",
+    "url": "https://www.nytimes.com/2020/11/24/briefing/janet-yellen-biden-transition-david-n-dinkins.html",
     "section": "Briefing"
   },
   {
     "historical_year": 2020,
-    "headline": "What We Like About Pandemic Shopping",
-    "snippet": "This year might have forever changed shopping for American consumers, store workers and retailers.",
-    "pub_date": "2020-11-23T18:12:06Z",
-    "url": "https://www.nytimes.com/2020/11/23/technology/pandemic-shopping.html",
-    "section": "Technology"
+    "headline": "Melissa McCarthy and Ben Falcone on ‘Superintelligence’ and Living Comedy",
+    "snippet": "The couple find themselves collaborating at the dinner table on projects like their new HBO Max movie.",
+    "pub_date": "2020-11-24T19:14:48Z",
+    "url": "https://www.nytimes.com/2020/11/24/movies/ben-falcone-melissa-mccarthy-interview-superintelligence.html",
+    "section": "Movies"
   },
   {
-    "historical_year": 2015,
-    "headline": "Randall Munroe Explains It All for Us",
-    "snippet": "In “Thing Explainer,” Mr. Munroe, a former NASA roboticist turned cartoonist, describes scientific concepts using the most basic English.",
-    "pub_date": "2015-11-23T17:14:34Z",
-    "url": "https://www.nytimes.com/2015/11/24/books/randall-munroe-explains-it-all-for-us.html",
-    "section": "Books"
+    "historical_year": 2020,
+    "headline": "Cooperative Competition Is Possible Between China and the U.S.",
+    "snippet": "A former vice foreign minister of China proposes a way forward for the world’s two leading powers.",
+    "pub_date": "2020-11-24T10:01:05Z",
+    "url": "https://www.nytimes.com/2020/11/24/opinion/china-us-biden.html",
+    "section": "Opinion"
   },
   {
-    "historical_year": 2010,
-    "headline": "Ai Fiori Is Set to Open on Monday",
-    "snippet": "Michael White’s latest is a grand Italian.",
-    "pub_date": "2010-11-23T22:20:30Z",
-    "url": "https://dinersjournal.blogs.nytimes.com/2010/11/23/ai-fiori-is-set-to-open-on-monday/",
-    "section": "Style"
+    "historical_year": 2020,
+    "headline": "Yellen Would Assume Vast Policy Portfolio as Treasury Secretary",
+    "snippet": "Janet Yellen will step into a critical role overseeing the new administration’s agenda at an agency that has increasingly become a center of power.",
+    "pub_date": "2020-11-24T22:11:22Z",
+    "url": "https://www.nytimes.com/2020/11/24/us/politics/janet-yellen-treasury-biden.html",
+    "section": "U.S."
   },
   {
-    "historical_year": 2010,
-    "headline": "Off the Menu",
-    "snippet": "Restaurant openings and news of more to come around town.",
-    "pub_date": "2010-11-23T23:04:57Z",
-    "url": "https://www.nytimes.com/2010/11/24/dining/24off.html",
-    "section": "Food"
+    "historical_year": 2005,
+    "headline": "A Moody Robotic Chimp With Eyes That Can Track Your Every Move",
+    "snippet": "The term ''animatronics'' refers to the exotic machinery that lends a spark of life to dead presidents at Disneyland and movie monsters on the big screen. Now animatronics are primed to invade the living room in the form of a hairy, interactive digital toy: the Alive Chimpanzee by the toy robotics maker WowWee.     Don't hide the bananas just yet. This chimp is only a head and bust. But its face is eerily realistic to the eye and touch. Roughly life size, the chimp has hidden touch sensors, stereo hearing and infrared sight. It can track objects with its watchful eyes and be startled by loud noises.  ",
+    "pub_date": "2005-11-24T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/11/24/technology/circuits/a-moody-robotic-chimp-with-eyes-that-can-track-your.html",
+    "section": "Business"
   }
 ]
