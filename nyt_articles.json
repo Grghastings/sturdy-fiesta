@@ -1,82 +1,66 @@
 [
   {
     "historical_year": 2020,
-    "headline": "Meet GPT-3. It Has Learned to Code (and Blog and Argue).",
-    "snippet": "The latest natural-language system generates tweets, pens poetry, summarizes emails, translates languages and even writes its own computer programs.",
-    "pub_date": "2020-11-24T07:30:09Z",
-    "url": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-ai-gpt3.html",
-    "section": "Science"
+    "headline": "We’re Still Smarter Than Computers",
+    "snippet": "For now.",
+    "pub_date": "2020-11-25T17:16:10Z",
+    "url": "https://www.nytimes.com/2020/11/25/technology/ai-gpt3.html",
+    "section": "Technology"
   },
   {
     "historical_year": 2020,
-    "headline": "When A.I. Falls in Love",
-    "snippet": "The Times asked GPT-3 to tell us a little about itself and its romantic life.",
-    "pub_date": "2020-11-24T07:30:08Z",
-    "url": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-gpt3-writing-love.html",
-    "section": "Science"
+    "headline": "Introduction to ‘Lesson of the Day’",
+    "snippet": "Want to learn more about this feature? Watch this short introduction video to learn more about our daily lessons.",
+    "pub_date": "2020-11-25T12:34:45Z",
+    "url": "https://www.nytimes.com/2020/11/25/learning/introduction-to-lesson-of-the-day.html",
+    "section": "The Learning Network"
   },
   {
     "historical_year": 2020,
-    "headline": "Need a Hypothesis? This A.I. Has One",
-    "snippet": "Slowly, machine-learning systems are beginning to generate ideas, not just test them.",
-    "pub_date": "2020-11-24T13:47:01Z",
-    "url": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-ai-psychology.html",
-    "section": "Science"
+    "headline": "IBM is said to be eliminating 10,000 jobs in Europe.",
+    "snippet": "",
+    "pub_date": "2020-11-25T18:48:05Z",
+    "url": "https://www.nytimes.com/live/2020/11/25/business/us-economy-coronavirus/ibm-is-said-to-be-eliminating-10000-jobs-in-europe",
+    "section": "Business"
   },
   {
     "historical_year": 2020,
-    "headline": "How Archaeologists Are Using Deep Learning to Dig Deeper",
-    "snippet": "Trawling ancient history with neural nets.",
-    "pub_date": "2020-11-24T07:30:13Z",
-    "url": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html",
-    "section": "Science"
+    "headline": "Perhaps a New Fragrance Will Make Things Festive",
+    "snippet": "The smell of flowers or pine or vanilla could be a holiday boost.",
+    "pub_date": "2020-11-25T10:00:33Z",
+    "url": "https://www.nytimes.com/2020/11/25/fashion/perfume-candles-fragrance-foundation-UK.html",
+    "section": "Fashion"
   },
   {
     "historical_year": 2020,
-    "headline": "Stocks, Joe Biden, Thanksgiving Naps: Your Tuesday Evening Briefing",
-    "snippet": "Here’s what you need to know at the end of the day.",
-    "pub_date": "2020-11-24T22:56:51Z",
-    "url": "https://www.nytimes.com/2020/11/24/briefing/stocks-joe-biden-thanksgiving-naps.html",
-    "section": "Briefing"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "The Transition Begins",
-    "snippet": "Make sense of the news, every day, with David Leonhardt.",
-    "pub_date": "2020-11-24T11:29:03Z",
-    "url": "https://www.nytimes.com/2020/11/24/briefing/janet-yellen-biden-transition-david-n-dinkins.html",
-    "section": "Briefing"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Melissa McCarthy and Ben Falcone on ‘Superintelligence’ and Living Comedy",
-    "snippet": "The couple find themselves collaborating at the dinner table on projects like their new HBO Max movie.",
-    "pub_date": "2020-11-24T19:14:48Z",
-    "url": "https://www.nytimes.com/2020/11/24/movies/ben-falcone-melissa-mccarthy-interview-superintelligence.html",
-    "section": "Movies"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Cooperative Competition Is Possible Between China and the U.S.",
-    "snippet": "A former vice foreign minister of China proposes a way forward for the world’s two leading powers.",
-    "pub_date": "2020-11-24T10:01:05Z",
-    "url": "https://www.nytimes.com/2020/11/24/opinion/china-us-biden.html",
+    "headline": "The Future Was Supposed to Be Better Than This",
+    "snippet": "Thanksgiving — like the rest of life — just isn’t the same through a screen.",
+    "pub_date": "2020-11-25T10:00:12Z",
+    "url": "https://www.nytimes.com/2020/11/25/opinion/thanksgiving-covid-technology.html",
     "section": "Opinion"
   },
   {
     "historical_year": 2020,
-    "headline": "Yellen Would Assume Vast Policy Portfolio as Treasury Secretary",
-    "snippet": "Janet Yellen will step into a critical role overseeing the new administration’s agenda at an agency that has increasingly become a center of power.",
-    "pub_date": "2020-11-24T22:11:22Z",
-    "url": "https://www.nytimes.com/2020/11/24/us/politics/janet-yellen-treasury-biden.html",
-    "section": "U.S."
+    "headline": "5 Art Gallery Shows to See Right Now",
+    "snippet": "Cecily Brown’s new paintings, Sam Gilliam’s sculptures, and Gideon Appah’s otherworldly vistas are among the art gallery shows worth seeing.",
+    "pub_date": "2020-11-25T20:18:35Z",
+    "url": "https://www.nytimes.com/2020/11/25/arts/5-art-gallery-shows-to-see-right-now.html",
+    "section": "Arts"
   },
   {
-    "historical_year": 2005,
-    "headline": "A Moody Robotic Chimp With Eyes That Can Track Your Every Move",
-    "snippet": "The term ''animatronics'' refers to the exotic machinery that lends a spark of life to dead presidents at Disneyland and movie monsters on the big screen. Now animatronics are primed to invade the living room in the form of a hairy, interactive digital toy: the Alive Chimpanzee by the toy robotics maker WowWee.     Don't hide the bananas just yet. This chimp is only a head and bust. But its face is eerily realistic to the eye and touch. Roughly life size, the chimp has hidden touch sensors, stereo hearing and infrared sight. It can track objects with its watchful eyes and be startled by loud noises.  ",
-    "pub_date": "2005-11-24T05:00:00Z",
-    "url": "https://www.nytimes.com/2005/11/24/technology/circuits/a-moody-robotic-chimp-with-eyes-that-can-track-your.html",
-    "section": "Business"
+    "historical_year": 2020,
+    "headline": "Your Wednesday Briefing",
+    "snippet": "France and Germany tussle over defense policy.",
+    "pub_date": "2020-11-25T03:29:21Z",
+    "url": "https://www.nytimes.com/2020/11/24/briefing/britain-christmas-lockdown-paris-migrant-camp.html",
+    "section": "Briefing"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "The 25 Greatest Actors of the 21st Century (So Far)",
+    "snippet": "Chameleons or beauties, star turns or character roles — these are the performers who have outshone all others on the big screen in the last 20 years.",
+    "pub_date": "2020-11-25T10:00:06Z",
+    "url": "https://www.nytimes.com/interactive/2020/movies/greatest-actors-actresses.html",
+    "section": "Movies"
   }
 ]
