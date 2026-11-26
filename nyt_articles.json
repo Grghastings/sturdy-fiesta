@@ -1,66 +1,10 @@
 [
   {
     "historical_year": 2020,
-    "headline": "We’re Still Smarter Than Computers",
-    "snippet": "For now.",
-    "pub_date": "2020-11-25T17:16:10Z",
-    "url": "https://www.nytimes.com/2020/11/25/technology/ai-gpt3.html",
-    "section": "Technology"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Introduction to ‘Lesson of the Day’",
-    "snippet": "Want to learn more about this feature? Watch this short introduction video to learn more about our daily lessons.",
-    "pub_date": "2020-11-25T12:34:45Z",
-    "url": "https://www.nytimes.com/2020/11/25/learning/introduction-to-lesson-of-the-day.html",
-    "section": "The Learning Network"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "IBM is said to be eliminating 10,000 jobs in Europe.",
-    "snippet": "",
-    "pub_date": "2020-11-25T18:48:05Z",
-    "url": "https://www.nytimes.com/live/2020/11/25/business/us-economy-coronavirus/ibm-is-said-to-be-eliminating-10000-jobs-in-europe",
-    "section": "Business"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Perhaps a New Fragrance Will Make Things Festive",
-    "snippet": "The smell of flowers or pine or vanilla could be a holiday boost.",
-    "pub_date": "2020-11-25T10:00:33Z",
-    "url": "https://www.nytimes.com/2020/11/25/fashion/perfume-candles-fragrance-foundation-UK.html",
-    "section": "Fashion"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "The Future Was Supposed to Be Better Than This",
-    "snippet": "Thanksgiving — like the rest of life — just isn’t the same through a screen.",
-    "pub_date": "2020-11-25T10:00:12Z",
-    "url": "https://www.nytimes.com/2020/11/25/opinion/thanksgiving-covid-technology.html",
-    "section": "Opinion"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "5 Art Gallery Shows to See Right Now",
-    "snippet": "Cecily Brown’s new paintings, Sam Gilliam’s sculptures, and Gideon Appah’s otherworldly vistas are among the art gallery shows worth seeing.",
-    "pub_date": "2020-11-25T20:18:35Z",
-    "url": "https://www.nytimes.com/2020/11/25/arts/5-art-gallery-shows-to-see-right-now.html",
-    "section": "Arts"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "Your Wednesday Briefing",
-    "snippet": "France and Germany tussle over defense policy.",
-    "pub_date": "2020-11-25T03:29:21Z",
-    "url": "https://www.nytimes.com/2020/11/24/briefing/britain-christmas-lockdown-paris-migrant-camp.html",
-    "section": "Briefing"
-  },
-  {
-    "historical_year": 2020,
-    "headline": "The 25 Greatest Actors of the 21st Century (So Far)",
-    "snippet": "Chameleons or beauties, star turns or character roles — these are the performers who have outshone all others on the big screen in the last 20 years.",
-    "pub_date": "2020-11-25T10:00:06Z",
-    "url": "https://www.nytimes.com/interactive/2020/movies/greatest-actors-actresses.html",
+    "headline": "‘Superintelligence’ Review: Melissa McCarthy Has to Save the World",
+    "snippet": "In this comedy from Ben Falcone, McCarthy plays the world’s most average human, picked to save the world by an A.I. entity with the voice of James Corden.",
+    "pub_date": "2020-11-26T12:00:05Z",
+    "url": "https://www.nytimes.com/2020/11/26/movies/superintelligence-review.html",
     "section": "Movies"
   }
 ]
