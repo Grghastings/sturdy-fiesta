@@ -1,10 +1,82 @@
 [
   {
     "historical_year": 2020,
-    "headline": "‘Superintelligence’ Review: Melissa McCarthy Has to Save the World",
-    "snippet": "In this comedy from Ben Falcone, McCarthy plays the world’s most average human, picked to save the world by an A.I. entity with the voice of James Corden.",
-    "pub_date": "2020-11-26T12:00:05Z",
-    "url": "https://www.nytimes.com/2020/11/26/movies/superintelligence-review.html",
-    "section": "Movies"
+    "headline": "U.N. Panel: Technology in Policing Can Reinforce Racial Bias",
+    "snippet": "The use of artificial intelligence and facial recognition programs may lead communities to lose trust in law enforcement, human rights experts say.",
+    "pub_date": "2020-11-27T02:13:50Z",
+    "url": "https://www.nytimes.com/2020/11/26/us/un-panel-technology-in-policing-can-reinforce-racial-bias.html",
+    "section": "U.S."
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Love Letter: Craving Comfort and Connection",
+    "snippet": "And how to do a solo holiday season.",
+    "pub_date": "2020-11-27T19:30:05Z",
+    "url": "https://www.nytimes.com/2020/11/27/style/love-letter-craving-comfort-and-connection.html",
+    "section": "Style"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Classic British Rock Group",
+    "snippet": "Robyn Weintraub offers us a marvelous way to work off our holiday meals.",
+    "pub_date": "2020-11-27T03:00:04Z",
+    "url": "https://www.nytimes.com/2020/11/26/crosswords/daily-puzzle-2020-11-27.html",
+    "section": "Gameplay"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Biden’s Plan for Seniors Is Not Just a Plan for Seniors",
+    "snippet": "The incoming administration aims to tackle child care, elder care, preschool and more in one ambitious aid program.",
+    "pub_date": "2020-11-27T15:58:04Z",
+    "url": "https://www.nytimes.com/2020/11/27/health/biden-senior-citizens.html",
+    "section": "Health"
+  },
+  {
+    "historical_year": 2020,
+    "headline": "Gift Books for Children (That Adults Will Also Love)",
+    "snippet": "Upside-down fairy tales, a neon periodic table, the art of Ramona Quimby and more.",
+    "pub_date": "2020-11-27T05:06:31Z",
+    "url": "https://www.nytimes.com/2020/11/27/books/review/childrens-holiday-gift-books.html",
+    "section": "Books"
+  },
+  {
+    "historical_year": 2015,
+    "headline": "Theater Listings for Nov. 27-Dec. 3",
+    "snippet": "",
+    "pub_date": "2015-11-27T14:14:29Z",
+    "url": "https://www.nytimes.com/2015/11/27/theater/theater-listings-for-nov-27-dec-3.html",
+    "section": "Theater"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Pardon Me, but the Art Is Mouthing Off",
+    "snippet": "IT was late in the day, rain was streaking the windows of a converted warehouse in San Francisco and the robot was not behaving. Represented by a talking head on a flat-screen monitor, and equipped with voice-recognition software, the artificial intelligence computer -- known as DiNA -- was designed to chat with visitors about current affairs. She is supposed to be a political animal, or more precisely, machine. But at this point in early November, just a few weeks before making her New York debut, she sounded rather clueless. When asked her opinion of the war in Iraq, she called it a ''silly question.'' When asked whether she supported President Bush, she didn't recognize his name.      The robot's programmer, Colin Klingman, was taken aback. ''She has a lot to say on Bush, believe me,'' he said. ''I'll have to check the code.''  ",
+    "pub_date": "2005-11-27T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/11/27/arts/design/pardon-me-but-the-art-is-mouthing-off.html",
+    "section": "Arts"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Boston",
+    "snippet": " WHY GO NOW -- Winter here evokes holiday tidings like few other cities. Boston, after all, is the land of centuries-old buildings, tree-lined streets and fickle weather. As the Citgo sign in Kenmore Square heralds Beantown baseball, so the weather beacon atop the old John Hancock Tower heralds Boston weather. Visitors and Bostonians need look no further than the Art Deco Copley Square building with the pyramid-shaped roof to know the score:     Steady blue, clear view     Flashing blue, change due     Steady red, rain ahead     Flashing red, snow instead  ",
+    "pub_date": "2005-11-27T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/11/27/travel/boston.html",
+    "section": "Travel"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Boston",
+    "snippet": "A walkable city, Boston has Old World charm - but there's always a bit of revolution in the air.\n",
+    "pub_date": "2005-11-27T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/11/27/travel/boston.html",
+    "section": "Travel"
+  },
+  {
+    "historical_year": 2005,
+    "headline": "Is Child Stardom No Longer a Life Sentence?",
+    "snippet": "SHIA LaBEOUF and his manager, John Crosby, were sitting outside a coffee shop here one recent afternoon discussing the most opportune moment for the 19-year-old actor to win an Academy Award.      ''Would I want to win an Oscar before I'm 40?'' asked Mr. LaBeouf, at the moment perhaps best known for starring on the Disney Channel series ''Even Stevens.'' ''Maybe. Would I want to win one before I'm 25? No.''  ",
+    "pub_date": "2005-11-27T05:00:00Z",
+    "url": "https://www.nytimes.com/2005/11/27/movies/is-child-stardom-no-longer-a-life-sentence.html",
+    "section": "Arts"
   }
 ]
